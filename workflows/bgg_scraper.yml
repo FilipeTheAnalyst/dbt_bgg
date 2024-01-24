@@ -1,0 +1,26 @@
+name: ELT Boardgames API
+
+on:
+  schedule:
+    - cron: '0 10 * * *'  # This schedule runs the workflow every day at 10:00AM UTC
+
+  workflow_dispatch:
+
+jjobs:
+  elt:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Python Packages
+        run: pip3 install -r requirements.txt
+
+      - name: Get Boardgames Data
+        run: python boardgames.py
