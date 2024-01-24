@@ -2,7 +2,7 @@ from xml.dom import minidom
 import requests
 import time
 
-filename = 'bgg_game_ids.csv'
+filename = 'data/bgg_game_ids.csv'
 
 # Read existing game_ids from the file
 existing_game_ids = set()
