@@ -6,7 +6,7 @@ on:
 
   workflow_dispatch:
 
-jjobs:
+jobs:
   elt:
     runs-on: ubuntu-latest
 
