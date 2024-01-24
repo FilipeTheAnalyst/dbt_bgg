@@ -23,39 +23,49 @@ headers = {
 # Define sleep timer value between requests
 SLEEP_BETWEEN_REQUEST = 5
 
+# Define file path to store boardgames info
+bgg_file_path = '_boardgames_header.csv'
+bgg_detail_file_path = '_boardgames_detail.csv'
+
+link_type_exclusions = ["boardgameversion", "language"]
+
 # Check if the file exists
-file_path = 'bgg_game_ids.csv'
-if not os.path.exists(file_path):
+bgg_ids_file_path = 'bgg_game_ids.csv'
+if not os.path.exists(bgg_ids_file_path):
     print("File with boardgame_ids doesn't exist!")
 else:
     # Read game_ids from the file
-    with open(file_path, 'r') as ids_file:
+    with open(bgg_ids_file_path, 'r') as ids_file:
         game_ids = [line.strip() for line in ids_file]
 
     # Define batch_size
     batch_size = 500
     total_games = len(game_ids)
-    # total_games = 10000  # For testing purposes
+    # total_games = 6  # For testing purposes
     base_url = "https://boardgamegeek.com/xmlapi2/thing?id="
 
     games_header = [
-        'name', 'game_id', 'type', 'avg_rating', 'avg_bayes_rating', 'users_rated', 'weight', 'year_published', 'min_players', 'max_players',
-        'min_play_time', 'max_play_time', 'min_age', 'owned_by', 'updated_at'
+        'game_id', 'name', 'type', 'year_published', 'min_players', 'max_players', 'min_play_time', 'max_play_time', 'min_age', 'thumbnail'
+    ]
+
+    games_detail_header = [
+        'game_id', 'rank_type', 'rank', 'best_num_players', 'not_recommended_num_players', 'language_dependency', 'avg_rating', 'avg_bayes_rating', 'users_rated', 'avg_weight', 'total_owners', 'updated_at'
     ]
 
     # Read existing game IDs from the bgg.csv file
     existing_game_ids = set()
-    if os.path.exists('bgg.csv'):
-        df_existing = pd.read_csv('bgg.csv')
+    if os.path.exists(bgg_file_path):
+        df_existing = pd.read_csv(bgg_file_path)
         existing_game_ids.update(df_existing['game_id'])
 
     for batch_start in range(0, total_games, batch_size):
         # Extract a batch of game_ids
         batch_ids = game_ids[batch_start:batch_start + batch_size]
+        # ids = [0, 1, 2, 3, 4, 176494]  # For testing purposes
 
         # Join and append to the URL the IDs within batch size
         ids = ",".join(batch_ids)
-        url = f"{base_url}{ids}&stats=1"
+        url = f"{base_url}{ids}&stats=1&versions=1"
 
         # If by any chance there is an error, this will throw the exception and continue to the next batch
         try:
@@ -65,7 +75,9 @@ else:
                 soup = BeautifulSoup(response.text, features="html.parser")
                 items = soup.find_all("item")
                 games = {}
+                games_detail = []
                 link_type_data = {}
+                version_link_type_data = {}
 
                 if not items:
                     print(f">>> No more items. Exiting.")
@@ -93,38 +105,109 @@ else:
                             num_users_rated = item.find("usersrated")['value'] if item.find("usersrated") is not None else 0
                             weight = item.find("averageweight")['value'] if item.find("averageweight") is not None else 0
                             owned = item.find("owned")['value'] if item.find("owned") is not None else 0
+                            thumbnail = item.find("thumbnail").text if item.find("thumbnail") is not None else 0
 
                             links = item.find_all("link")
+
+                            ranks = item.find_all("rank")
+
+                            # Extract suggested_numplayers poll results
+                            suggested_numplayers_poll = item.find('poll', {'name': 'suggested_numplayers'})
+                            if suggested_numplayers_poll:
+                                results = suggested_numplayers_poll.find_all('results')
+                
+                                # Find numplayers with the most total numvotes for value="Best"
+                                best_numplayers = max(results, key=lambda x: int(x.find('result', {'value': 'Best'})['numvotes']))
+                                best_numplayers_value = best_numplayers['numplayers']
+
+                                 # Find numplayers with the most total numvotes for value="Not Recommended"
+                                not_recommended_numplayers = max(results, key=lambda x: int(x.find('result', {'value': 'Not Recommended'})['numvotes']))
+                                not_recommended_numplayers_value = not_recommended_numplayers['numplayers']
+
+                            # Extract language_dependence poll results
+                            language_dependence_poll = item.find('poll', {'name': 'language_dependence'})
+                            if language_dependence_poll:
+                                results = language_dependence_poll.find_all('result')
+
+                                # Find language dependence value with the most total numvotes
+                                best_language_dependence = max(results, key=lambda x: int(x['numvotes']))
+                                best_language_dependence_value = best_language_dependence['value']
+                                best_language_dependence_votes = best_language_dependence['numvotes']
 
                             # Append value(s) for each link type
                             for link in links:
                                 link_type_name = link['type']
                                 link_type_value = link['value']
+                                link_type_id = link['id']
 
-                                if link_type_name not in link_type_data:
-                                    link_type_data[link_type_name] = []
+                                if link_type_name not in link_type_exclusions:
 
-                                link_type_data[link_type_name].append({
-                                    "game_id": item['id'],
-                                    "value": link_type_value
-                                })
+                                    if link_type_name not in link_type_data:
+                                        link_type_data[link_type_name] = []
 
-                            game = {
-                                "name": name,
+                                    link_type_data[link_type_name].append({
+                                        "game_id": item['id'],
+                                        "id": link_type_id,
+                                        "value": link_type_value
+                                    })
+
+                            # Append value(s) for each rank type
+                            for rank in ranks:
+                                rank_type = rank['name']
+                                rank_value = rank['value']
+                                game_detail = {
                                 "game_id": item['id'],
-                                "type": item['type'],
+                                "rank_type": rank_type,
+                                "rank": rank_value,
+                                "best_num_players": best_numplayers_value,
+                                "not_recommended_num_players": not_recommended_numplayers_value,
+                                "language_dependency": best_language_dependence_value,
                                 "avg_rating": avg_rating,
                                 "avg_bayes_rating": avg_bayes_rating,
                                 "users_rated": num_users_rated,
-                                "weight": weight,
+                                "avg_weight": weight,
+                                "total_owners": owned,
+                                "updated_at": time.strftime("%Y-%m-%d %H:%M:%S")
+                                }
+                                games_detail.append(game_detail)
+    
+
+                            # Find all boardgameversion items inside the boardgame item
+                            boardgameversion_items = item.find_all('item', {'type': 'boardgameversion'})
+
+                            for boardgameversion_item in boardgameversion_items:
+                                boardgame_version_id = boardgameversion_item['id']
+
+                                # Extract links from the boardgameversion item
+                                version_links = boardgameversion_item.find_all("link")
+                                # Append value(s) for each link type
+                                for version_link in version_links:
+                                    if version_link['type'] != "boardgameversion":
+                                        version_link_type_name = version_link['type']
+                                        version_link_type_value = version_link['value']
+                                        version_link_type_id = version_link['id']
+
+                                        if boardgameversion_item['type'] not in version_link_type_data:
+                                            version_link_type_data[boardgameversion_item['type']] = []
+
+                                        version_link_type_data[boardgameversion_item['type']].append({
+                                            "game_id": item['id'],
+                                            "boardgame_version_id": boardgameversion_item['id'],
+                                            version_link_type_name: version_link_type_value,
+                                            f"{version_link_type_name}_id": version_link['id']
+                                        })
+
+                            game = {
+                                "game_id": item['id'],
+                                "name": name,
+                                "type": item['type'],
                                 "year_published": year_published,
                                 "min_players": min_players,
                                 "max_players": max_players,
                                 "min_play_time": min_play_time,
                                 "max_play_time": max_play_time,
                                 "min_age": min_age,
-                                "owned_by": owned,
-                                "updated_at": time.strftime("%Y-%m-%d %H:%M:%S")
+                                'thumbnail': thumbnail
                             }
 
                             # Append current item to games dictionary
@@ -134,13 +217,20 @@ else:
                             print(">>> NoneType error. Continued on the next item.")
                             continue
 
-                save_to_csv('bgg.csv', list(games.values()), games_header)  # Save the common data to bgg.csv
+                save_to_csv(bgg_file_path, list(games.values()), games_header)  # Save the common data to bgg.csv
+                save_to_csv(bgg_detail_file_path, games_detail, games_detail[0].keys())  # Save the detail data to bgg_detail.csv
 
                 # Save to CSV based on link type
-                for link_type_name, link_type_values in link_type_data.items():
-                    link_type_filename = f'bgg_{link_type_name}.csv'
-                    link_type_header = ['game_id', 'value']
-                    save_to_csv(link_type_filename, link_type_values, link_type_header)
+                for link_type_name, link_type_value in link_type_data.items():
+                    link_type_filename = f'_bgg_{link_type_name}.csv'
+                    link_type_header = link_type_value[0].keys()
+                    save_to_csv(link_type_filename, link_type_value, link_type_header)
+
+                # Save to CSV based on link type
+                for version_link_type_name, version_link_type_value in version_link_type_data.items():
+                    version_link_type_filename = f'_bgg_{version_link_type_name}.csv'
+                    version_link_type_header = set(key for d in version_link_type_value for key in d.keys())
+                    save_to_csv(version_link_type_filename, version_link_type_value, version_link_type_header)
 
                 print(f">>> Request successful for batch {batch_start}-{batch_start + batch_size - 1}")
             else:
