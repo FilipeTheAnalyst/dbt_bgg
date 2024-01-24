@@ -24,13 +24,14 @@ headers = {
 SLEEP_BETWEEN_REQUEST = 5
 
 # Define file path to store boardgames info
-bgg_file_path = 'data/boardgames_header.csv'
-bgg_detail_file_path = 'data/boardgames_detail.csv'
+bgg_data_folder = 'data/'
+bgg_file_path = bgg_data_folder+'boardgames.csv'
+bgg_detail_file_path = bgg_data_folder+f'{time.strftime("%Y-%m-%d")}_boardgames_details.csv'
 
 link_type_exclusions = ["boardgameversion", "language"]
 
 # Check if the file exists
-bgg_ids_file_path = 'data/bgg_game_ids.csv'
+bgg_ids_file_path = bgg_data_folder+'bgg_game_ids.csv'
 if not os.path.exists(bgg_ids_file_path):
     print("File with boardgame_ids doesn't exist!")
 else:
@@ -87,29 +88,13 @@ else:
                     if item['type'] == 'boardgame':
                         game_id = int(item['id'])
 
-                        # Check if the game ID is already processed
-                        if game_id in existing_game_ids:
-                            print(f">>> Skipping game {game_id} as it's already processed.")
-                            continue
                         try:
-                            # Find values in the XML
-                            name = item.find("name")['value'] if item.find("name") is not None else 0
-                            year_published = item.find("yearpublished")['value'] if item.find("yearpublished") is not None else 0
-                            min_players = item.find("minplayers")['value'] if item.find("minplayers") is not None else 0
-                            max_players = item.find("maxplayers")['value'] if item.find("maxplayers") is not None else 0
-                            min_play_time = item.find("minplaytime")['value'] if item.find("minplaytime") is not None else 0
-                            max_play_time = item.find("maxplaytime")['value'] if item.find("maxplaytime") is not None else 0
-                            min_age = item.find("minage")['value'] if item.find("minage") is not None else 0
+                            # Find values in the XML for boardgames_details
                             avg_rating = item.find("average")['value'] if item.find("average") is not None else 0
                             avg_bayes_rating = item.find("bayesaverage")['value'] if item.find("bayesaverage") is not None else 0
                             num_users_rated = item.find("usersrated")['value'] if item.find("usersrated") is not None else 0
                             weight = item.find("averageweight")['value'] if item.find("averageweight") is not None else 0
                             owned = item.find("owned")['value'] if item.find("owned") is not None else 0
-                            thumbnail = item.find("thumbnail").text if item.find("thumbnail") is not None else 0
-
-                            links = item.find_all("link")
-
-                            ranks = item.find_all("rank")
 
                             # Extract suggested_numplayers poll results
                             suggested_numplayers_poll = item.find('poll', {'name': 'suggested_numplayers'})
@@ -134,22 +119,7 @@ else:
                                 best_language_dependence_value = best_language_dependence['value']
                                 best_language_dependence_votes = best_language_dependence['numvotes']
 
-                            # Append value(s) for each link type
-                            for link in links:
-                                link_type_name = link['type']
-                                link_type_value = link['value']
-                                link_type_id = link['id']
-
-                                if link_type_name not in link_type_exclusions:
-
-                                    if link_type_name not in link_type_data:
-                                        link_type_data[link_type_name] = []
-
-                                    link_type_data[link_type_name].append({
-                                        "game_id": item['id'],
-                                        "id": link_type_id,
-                                        "value": link_type_value
-                                    })
+                            ranks = item.find_all("rank")
 
                             # Append value(s) for each rank type
                             for rank in ranks:
@@ -170,6 +140,50 @@ else:
                                 "updated_at": time.strftime("%Y-%m-%d %H:%M:%S")
                                 }
                                 games_detail.append(game_detail)
+
+                        except TypeError:
+                            print(">>> NoneType error. Continued on the next item.")
+                            continue
+
+                        # Check if the game ID is already processed
+                        if game_id in existing_game_ids:
+                            print(f">>> Skipping game {game_id} as it's already processed.")
+                            continue
+                        try:
+                            # Find values in the XML
+                            name = item.find("name")['value'] if item.find("name") is not None else 0
+                            year_published = item.find("yearpublished")['value'] if item.find("yearpublished") is not None else 0
+                            min_players = item.find("minplayers")['value'] if item.find("minplayers") is not None else 0
+                            max_players = item.find("maxplayers")['value'] if item.find("maxplayers") is not None else 0
+                            min_play_time = item.find("minplaytime")['value'] if item.find("minplaytime") is not None else 0
+                            max_play_time = item.find("maxplaytime")['value'] if item.find("maxplaytime") is not None else 0
+                            min_age = item.find("minage")['value'] if item.find("minage") is not None else 0
+                            avg_rating = item.find("average")['value'] if item.find("average") is not None else 0
+                            avg_bayes_rating = item.find("bayesaverage")['value'] if item.find("bayesaverage") is not None else 0
+                            num_users_rated = item.find("usersrated")['value'] if item.find("usersrated") is not None else 0
+                            weight = item.find("averageweight")['value'] if item.find("averageweight") is not None else 0
+                            owned = item.find("owned")['value'] if item.find("owned") is not None else 0
+                            thumbnail = item.find("thumbnail").text if item.find("thumbnail") is not None else 0
+
+                            links = item.find_all("link")
+
+
+                            # Append value(s) for each link type
+                            for link in links:
+                                link_type_name = link['type']
+                                link_type_value = link['value']
+                                link_type_id = link['id']
+
+                                if link_type_name not in link_type_exclusions:
+
+                                    if link_type_name not in link_type_data:
+                                        link_type_data[link_type_name] = []
+
+                                    link_type_data[link_type_name].append({
+                                        "game_id": item['id'],
+                                        "id": link_type_id,
+                                        "value": link_type_value
+                                    })
     
 
                             # Find all boardgameversion items inside the boardgame item
@@ -222,13 +236,13 @@ else:
 
                 # Save to CSV based on link type
                 for link_type_name, link_type_value in link_type_data.items():
-                    link_type_filename = f'data/bgg_{link_type_name}.csv'
+                    link_type_filename = bgg_data_folder+f'bgg_{link_type_name}.csv'
                     link_type_header = link_type_value[0].keys()
                     save_to_csv(link_type_filename, link_type_value, link_type_header)
 
                 # Save to CSV based on link type
                 for version_link_type_name, version_link_type_value in version_link_type_data.items():
-                    version_link_type_filename = f'data/bgg_{version_link_type_name}.csv'
+                    version_link_type_filename = bgg_data_folder+f'bgg_{version_link_type_name}.csv'
                     version_link_type_header = set(key for d in version_link_type_value for key in d.keys())
                     save_to_csv(version_link_type_filename, version_link_type_value, version_link_type_header)
 
