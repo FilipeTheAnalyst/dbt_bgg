@@ -24,13 +24,13 @@ headers = {
 SLEEP_BETWEEN_REQUEST = 5
 
 # Define file path to store boardgames info
-bgg_file_path = '_boardgames_header.csv'
-bgg_detail_file_path = '_boardgames_detail.csv'
+bgg_file_path = 'data/boardgames_header.csv'
+bgg_detail_file_path = 'data/boardgames_detail.csv'
 
 link_type_exclusions = ["boardgameversion", "language"]
 
 # Check if the file exists
-bgg_ids_file_path = 'bgg_game_ids.csv'
+bgg_ids_file_path = 'data/bgg_game_ids.csv'
 if not os.path.exists(bgg_ids_file_path):
     print("File with boardgame_ids doesn't exist!")
 else:
@@ -222,13 +222,13 @@ else:
 
                 # Save to CSV based on link type
                 for link_type_name, link_type_value in link_type_data.items():
-                    link_type_filename = f'_bgg_{link_type_name}.csv'
+                    link_type_filename = f'data/bgg_{link_type_name}.csv'
                     link_type_header = link_type_value[0].keys()
                     save_to_csv(link_type_filename, link_type_value, link_type_header)
 
                 # Save to CSV based on link type
                 for version_link_type_name, version_link_type_value in version_link_type_data.items():
-                    version_link_type_filename = f'_bgg_{version_link_type_name}.csv'
+                    version_link_type_filename = f'data/bgg_{version_link_type_name}.csv'
                     version_link_type_header = set(key for d in version_link_type_value for key in d.keys())
                     save_to_csv(version_link_type_filename, version_link_type_value, version_link_type_header)
 
