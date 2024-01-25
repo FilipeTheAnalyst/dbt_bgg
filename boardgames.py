@@ -28,7 +28,7 @@ bgg_data_folder = 'data/'
 bgg_file_path = bgg_data_folder+'boardgames.csv'
 bgg_detail_file_path = bgg_data_folder+f'{time.strftime("%Y-%m-%d")}_boardgames_details.csv'
 
-link_type_exclusions = ["boardgameversion", "language"]
+link_type_exclusions = ["boardgameversion", "language", "boardgamecompilation", "boardgameexpansion", "boardgamefamily", "boardgameimplementation", "boardgameintegration"]
 
 # Check if the file exists
 bgg_ids_file_path = bgg_data_folder+'bgg_game_ids.csv'
@@ -47,10 +47,6 @@ else:
 
     games_header = [
         'game_id', 'name', 'type', 'year_published', 'min_players', 'max_players', 'min_play_time', 'max_play_time', 'min_age', 'thumbnail'
-    ]
-
-    games_detail_header = [
-        'game_id', 'rank_type', 'rank', 'best_num_players', 'not_recommended_num_players', 'language_dependency', 'avg_rating', 'avg_bayes_rating', 'users_rated', 'avg_weight', 'total_owners', 'updated_at'
     ]
 
     # Read existing game IDs from the bgg.csv file
@@ -142,6 +138,7 @@ else:
                                 games_detail.append(game_detail)
 
                         except TypeError:
+                            print(game_id)
                             print(">>> NoneType error. Continued on the next item.")
                             continue
 
@@ -158,11 +155,6 @@ else:
                             min_play_time = item.find("minplaytime")['value'] if item.find("minplaytime") is not None else 0
                             max_play_time = item.find("maxplaytime")['value'] if item.find("maxplaytime") is not None else 0
                             min_age = item.find("minage")['value'] if item.find("minage") is not None else 0
-                            avg_rating = item.find("average")['value'] if item.find("average") is not None else 0
-                            avg_bayes_rating = item.find("bayesaverage")['value'] if item.find("bayesaverage") is not None else 0
-                            num_users_rated = item.find("usersrated")['value'] if item.find("usersrated") is not None else 0
-                            weight = item.find("averageweight")['value'] if item.find("averageweight") is not None else 0
-                            owned = item.find("owned")['value'] if item.find("owned") is not None else 0
                             thumbnail = item.find("thumbnail").text if item.find("thumbnail") is not None else 0
 
                             links = item.find_all("link")
@@ -228,6 +220,7 @@ else:
                             games[item['id']] = game
 
                         except TypeError:
+                            print(game["game_id"])
                             print(">>> NoneType error. Continued on the next item.")
                             continue
 
