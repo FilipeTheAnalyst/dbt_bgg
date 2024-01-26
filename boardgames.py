@@ -26,7 +26,7 @@ SLEEP_BETWEEN_REQUEST = 5
 # Define file path to store boardgames info
 bgg_data_folder = 'data/'
 bgg_file_path = bgg_data_folder+'boardgames.csv'
-bgg_detail_file_path = bgg_data_folder+f'{time.strftime("%Y-%m-%d")}_boardgames_details.csv'
+bgg_detail_file_path = bgg_data_folder+'boardgames_details.csv'
 
 link_type_exclusions = ["boardgameaccessory", "boardgameversion", "language", "boardgamecompilation", "boardgameexpansion", "boardgamefamily", "boardgameimplementation", "boardgameintegration"]
 
@@ -40,9 +40,9 @@ else:
         game_ids = [line.strip() for line in ids_file]
 
     # Define batch_size
-    batch_size = 6
+    batch_size = 500
     total_games = len(game_ids)
-    total_games = 6  # For testing purposes
+    # total_games = 6  # For testing purposes
     base_url = "https://boardgamegeek.com/xmlapi2/thing?id="
 
     games_header = [
@@ -57,11 +57,11 @@ else:
 
     for batch_start in range(0, total_games, batch_size):
         # Extract a batch of game_ids
-        # batch_ids = game_ids[batch_start:batch_start + batch_size]
-        ids = [376696, 374871, 374730, 372211, 370401, 246018]  # For testing purposes
+        batch_ids = game_ids[batch_start:batch_start + batch_size]
+        # ids = [376696, 374871, 374730, 372211, 370401, 246018]  # For testing purposes
 
         # Join and append to the URL the IDs within batch size
-        # ids = ",".join(batch_ids)
+        ids = ",".join(batch_ids)
         url = f"{base_url}{ids}&stats=1&versions=1"
 
         # If by any chance there is an error, this will throw the exception and continue to the next batch
@@ -221,6 +221,61 @@ else:
 
                             # Append current item to games dictionary
                             games[item['id']] = game
+
+                            # Find values in the XML for boardgames_details
+                            avg_rating = item.find("average")['value'] if item.find("average") is not None else 0
+                            avg_bayes_rating = item.find("bayesaverage")['value'] if item.find("bayesaverage") is not None else 0
+                            num_users_rated = item.find("usersrated")['value'] if item.find("usersrated") is not None else 0
+                            weight = item.find("averageweight")['value'] if item.find("averageweight") is not None else 0
+                            owned = item.find("owned")['value'] if item.find("owned") is not None else 0
+
+                            # Extract suggested_numplayers poll results
+                            suggested_numplayers_poll = item.find('poll', {'name': 'suggested_numplayers'})
+                            if int(suggested_numplayers_poll['totalvotes']) != 0:
+                                results = suggested_numplayers_poll.find_all('results')
+                                # Find numplayers with the most total numvotes for value="Best"
+                                best_numplayers = max(results, key=lambda x: int(x.find('result', {'value': 'Best'})['numvotes']))
+                                best_numplayers_value = best_numplayers['numplayers']
+                                 # Find numplayers with the most total numvotes for value="Not Recommended"
+                                not_recommended_numplayers = max(results, key=lambda x: int(x.find('result', {'value': 'Not Recommended'})['numvotes']))
+                                not_recommended_numplayers_value = not_recommended_numplayers['numplayers']
+                            else:
+                                best_numplayers_value = 0
+                                not_recommended_numplayers_value = 0
+
+                            # Extract language_dependence poll results
+                            language_dependence_poll = item.find('poll', {'name': 'language_dependence'})
+                            if int(language_dependence_poll['totalvotes']) != 0:
+                                results = language_dependence_poll.find_all('result')
+
+                                # Find language dependence value with the most total numvotes
+                                best_language_dependence = max(results, key=lambda x: int(x['numvotes']))
+                                best_language_dependence_value = best_language_dependence['value']
+                                best_language_dependence_votes = best_language_dependence['numvotes']
+                            else:
+                                best_language_dependence_value = "Unknown"
+
+                            ranks = item.find_all("rank")
+
+                            # Append value(s) for each rank type
+                            for rank in ranks:
+                                rank_type = rank['name']
+                                rank_value = rank['value']
+                                game_detail = {
+                                "game_id": item['id'],
+                                "rank_type": rank_type,
+                                "rank": rank_value,
+                                "best_num_players": best_numplayers_value,
+                                "not_recommended_num_players": not_recommended_numplayers_value,
+                                "language_dependency": best_language_dependence_value,
+                                "avg_rating": avg_rating,
+                                "avg_bayes_rating": avg_bayes_rating,
+                                "users_rated": num_users_rated,
+                                "avg_weight": weight,
+                                "total_owners": owned,
+                                "updated_at": time.strftime("%Y-%m-%d %H:%M:%S")
+                                }
+                                games_detail.append(game_detail)
 
                         except TypeError:
                             print(game["game_id"])
