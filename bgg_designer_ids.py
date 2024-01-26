@@ -3,13 +3,13 @@ import requests
 import time
 
 filepath = 'data/'
-filename = filepath+'bgg_game_ids.csv'
+filename = filepath+'bgg_designer_ids.csv'
 
 # Read existing game_ids from the file
-existing_game_ids = set()
+existing_designer_ids = set()
 try:
     with open(filename, 'r') as existing_file:
-        existing_game_ids = set(line.strip() for line in existing_file)
+        existing_designer_ids = set(line.strip() for line in existing_file)
 except FileNotFoundError:
     pass  # File doesn't exist yet, ignore
 
@@ -21,7 +21,7 @@ start_time = time.time()  # Record the start time
 
 while True:
     time.sleep(2)
-    url = "https://boardgamegeek.com/sitemap_geekitems_boardgame_page_%d.xml" % i
+    url = "https://boardgamegeek.com/sitemap_geekitems_boardgamedesigner_page_%d.xml" % i
     r = requests.get(url)
 
     if r.status_code == 200:
@@ -31,11 +31,11 @@ while True:
             print("No more items. Exiting.")
             break
         for loc in locs:
-            game_url = loc.firstChild.data
-            game_id = game_url.split("/")[4]
-            if game_id not in existing_game_ids:
-                f.write(game_id + '\n')
-                existing_game_ids.add(game_id)
+            designer_url = loc.firstChild.data
+            designer_id = designer_url.split("/")[4]
+            if designer_id not in existing_designer_ids:
+                f.write(designer_id + '\n')
+                existing_designer_ids.add(designer_id)
         print("Got %d" % i)
         i += 1
     else:
