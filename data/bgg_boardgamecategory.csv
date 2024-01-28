@@ -149138,3 +149138,5056 @@ game_id,id,value
 28270,1027,Trivia
 28272,1030,Party Game
 28272,1027,Trivia
+2252,1023,Bluffing
+2252,1020,Exploration
+2252,1010,Fantasy
+2252,1079,Humor
+2252,1120,Print & Play
+2252,1086,Territory Building
+2253,1002,Card Game
+2253,1031,Racing
+2253,1038,Sports
+2254,1046,Fighting
+2254,1038,Sports
+2255,1009,Abstract Strategy
+2255,1002,Card Game
+2256,1041,Children's Game
+2256,1008,Nautical
+2256,1031,Racing
+2256,1034,Trains
+2256,1011,Transportation
+2257,1023,Bluffing
+2257,1002,Card Game
+2257,1017,Dice
+2257,1031,Racing
+2258,1021,Economic
+2258,1026,Negotiation
+2259,1019,Wargame
+2259,1049,World War II
+2260,2710,Post-Napoleonic
+2260,1019,Wargame
+2261,2726,Age of Reason
+2261,1075,American Revolutionary War
+2261,1019,Wargame
+2262,1022,Adventure
+2262,1023,Bluffing
+2262,1039,Deduction
+2262,1046,Fighting
+2262,1082,Mythology
+2263,1035,Medieval
+2263,1019,Wargame
+2264,1027,Trivia
+2264,1025,Word Game
+2265,1009,Abstract Strategy
+2265,1023,Bluffing
+2265,1039,Deduction
+2265,1045,Memory
+2265,1051,Napoleonic
+2266,1009,Abstract Strategy
+2266,1045,Memory
+2267,1009,Abstract Strategy
+2267,1037,Real-time
+2267,1016,Science Fiction
+2267,1019,Wargame
+2268,1020,Exploration
+2268,1047,Miniatures
+2268,1016,Science Fiction
+2269,1039,Deduction
+2269,1020,Exploration
+2269,1088,Industry / Manufacturing
+2270,1002,Card Game
+2270,1010,Fantasy
+2271,1009,Abstract Strategy
+2273,1002,Card Game
+2273,1021,Economic
+2275,2650,Aviation / Flight
+2275,1002,Card Game
+2275,1021,Economic
+2277,1023,Bluffing
+2277,1002,Card Game
+2277,1031,Racing
+2277,1038,Sports
+2278,1009,Abstract Strategy
+2279,1021,Economic
+2279,1001,Political
+2280,1022,Adventure
+2280,1052,Arabian
+2280,1021,Economic
+2280,1020,Exploration
+2280,1011,Transportation
+2281,1030,Party Game
+2283,1017,Dice
+2284,1039,Deduction
+2284,1104,Math
+2284,1120,Print & Play
+2285,1047,Miniatures
+2285,1031,Racing
+2285,1016,Science Fiction
+2285,1011,Transportation
+2285,1019,Wargame
+2287,1010,Fantasy
+2287,1046,Fighting
+2287,1038,Sports
+2288,1010,Fantasy
+2288,1046,Fighting
+2288,1038,Sports
+2290,1023,Bluffing
+2290,1041,Children's Game
+2290,1039,Deduction
+2290,1024,Horror
+2292,1009,Abstract Strategy
+2292,1021,Economic
+2292,1026,Negotiation
+2293,1002,Card Game
+2294,1002,Card Game
+2294,1045,Memory
+2294,1098,Number
+2295,1050,Ancient
+2295,1002,Card Game
+2295,1041,Children's Game
+2295,1116,Comic Book / Strip
+2296,1021,Economic
+2296,1008,Nautical
+2296,1011,Transportation
+2297,1046,Fighting
+2297,1031,Racing
+2297,1016,Science Fiction
+2298,1019,Wargame
+2298,1049,World War II
+2299,1021,Economic
+2299,1001,Political
+2299,1070,Renaissance
+2299,1011,Transportation
+2299,1019,Wargame
+2300,1019,Wargame
+2300,1049,World War II
+2301,1022,Adventure
+2301,1017,Dice
+2301,1020,Exploration
+2301,1010,Fantasy
+2301,1046,Fighting
+2301,1035,Medieval
+2302,1089,Animals
+2302,1094,Educational
+2303,1016,Science Fiction
+2303,1113,Space Exploration
+2304,1023,Bluffing
+2304,1046,Fighting
+2304,1038,Sports
+2305,1039,Deduction
+2305,1040,Murder/Mystery
+2305,1030,Party Game
+2306,1041,Children's Game
+2306,1010,Fantasy
+2307,1010,Fantasy
+2307,1019,Wargame
+2308,1041,Children's Game
+2308,1064,Movies / TV / Radio theme
+2308,1008,Nautical
+2308,1028,Puzzle
+2309,1008,Nautical
+2310,1002,Card Game
+2311,1022,Adventure
+2311,1089,Animals
+2311,1094,Educational
+2311,1084,Environmental
+2311,1020,Exploration
+2312,1010,Fantasy
+2312,1093,Novel-based
+2314,1041,Children's Game
+2314,1017,Dice
+2314,1031,Racing
+2315,2726,Age of Reason
+2315,1075,American Revolutionary War
+2315,1019,Wargame
+2316,1032,Action / Dexterity
+2316,1046,Fighting
+2317,1002,Card Game
+2318,1041,Children's Game
+2318,1025,Word Game
+2319,1021,Economic
+2320,1031,Racing
+2320,1011,Transportation
+2321,1002,Card Game
+2321,1025,Word Game
+2322,1009,Abstract Strategy
+2322,1031,Racing
+2324,1024,Horror
+2324,1016,Science Fiction
+2324,1019,Wargame
+2325,1021,Economic
+2326,1022,Adventure
+2326,1020,Exploration
+2326,1008,Nautical
+2326,1090,Pirates
+2326,1011,Transportation
+2326,1097,Travel
+2328,1021,Economic
+2328,1016,Science Fiction
+2329,1021,Economic
+2329,1088,Industry / Manufacturing
+2330,1021,Economic
+2330,2145,Medical
+2330,1027,Trivia
+2331,1017,Dice
+2331,1030,Party Game
+2331,1025,Word Game
+2333,1023,Bluffing
+2333,1039,Deduction
+2333,1028,Puzzle
+2334,1029,City Building
+2334,1021,Economic
+2335,1050,Ancient
+2335,1015,Civilization
+2335,1008,Nautical
+2335,1019,Wargame
+2336,1020,Exploration
+2336,1016,Science Fiction
+2337,1046,Fighting
+2337,1016,Science Fiction
+2338,1002,Card Game
+2338,1020,Exploration
+2338,1016,Science Fiction
+2338,1113,Space Exploration
+2339,1002,Card Game
+2339,1034,Trains
+2341,1023,Bluffing
+2341,1019,Wargame
+2342,1041,Children's Game
+2342,1039,Deduction
+2342,1020,Exploration
+2342,1040,Murder/Mystery
+2343,1039,Deduction
+2343,1072,Electronic
+2343,1020,Exploration
+2343,1040,Murder/Mystery
+2344,1086,Territory Building
+2346,1009,Abstract Strategy
+2348,1009,Abstract Strategy
+2348,1031,Racing
+2349,1041,Children's Game
+2349,1039,Deduction
+2349,1040,Murder/Mystery
+2350,1055,American West
+2350,1020,Exploration
+2351,1002,Card Game
+2351,1041,Children's Game
+2352,1009,Abstract Strategy
+2352,1041,Children's Game
+2353,1009,Abstract Strategy
+2353,1052,Arabian
+2354,1002,Card Game
+2354,1119,Game System
+2356,1017,Dice
+2356,1025,Word Game
+2357,1022,Adventure
+2359,1022,Adventure
+2359,1008,Nautical
+2360,1017,Dice
+2361,1002,Card Game
+2361,1016,Science Fiction
+2362,1010,Fantasy
+2362,1046,Fighting
+2362,1047,Miniatures
+2363,1039,Deduction
+2363,1040,Murder/Mystery
+2363,1034,Trains
+2364,1002,Card Game
+2364,1021,Economic
+2365,1002,Card Game
+2366,1009,Abstract Strategy
+2366,1104,Math
+2366,1098,Number
+2367,1041,Children's Game
+2367,1017,Dice
+2367,1010,Fantasy
+2367,1031,Racing
+2368,1017,Dice
+2368,1046,Fighting
+2368,1031,Racing
+2368,1016,Science Fiction
+2369,1002,Card Game
+2369,1079,Humor
+2370,1002,Card Game
+2371,1017,Dice
+2372,1002,Card Game
+2372,1038,Sports
+2373,1033,Mafia
+2374,1002,Card Game
+2374,1041,Children's Game
+2374,1120,Print & Play
+2375,1009,Abstract Strategy
+2375,1002,Card Game
+2376,1022,Adventure
+2376,1016,Science Fiction
+2376,1019,Wargame
+2378,1022,Adventure
+2378,1010,Fantasy
+2378,1046,Fighting
+2379,1002,Card Game
+2379,1030,Party Game
+2379,1025,Word Game
+2380,1002,Card Game
+2380,1044,Collectible Components
+2380,1010,Fantasy
+2380,1038,Sports
+2381,1030,Party Game
+2381,1037,Real-time
+2381,1025,Word Game
+2382,1009,Abstract Strategy
+2382,1008,Nautical
+2383,1038,Sports
+2384,1022,Adventure
+2384,1002,Card Game
+2384,1020,Exploration
+2384,1031,Racing
+2385,1023,Bluffing
+2385,1026,Negotiation
+2386,1009,Abstract Strategy
+2387,1037,Real-time
+2387,1027,Trivia
+2387,1025,Word Game
+2388,1021,Economic
+2388,1020,Exploration
+2388,1016,Science Fiction
+2388,1113,Space Exploration
+2388,1019,Wargame
+2389,1009,Abstract Strategy
+2390,1041,Children's Game
+2390,1017,Dice
+2391,1017,Dice
+2391,1001,Political
+2392,1009,Abstract Strategy
+2392,1039,Deduction
+2393,1009,Abstract Strategy
+2394,1009,Abstract Strategy
+2394,1119,Game System
+2395,1009,Abstract Strategy
+2396,1050,Ancient
+2396,1015,Civilization
+2397,1009,Abstract Strategy
+2397,1017,Dice
+2398,1002,Card Game
+2399,1009,Abstract Strategy
+2399,1115,Religious
+2400,1023,Bluffing
+2400,1046,Fighting
+2400,1033,Mafia
+2400,1026,Negotiation
+2401,1011,Transportation
+2402,1020,Exploration
+2402,1010,Fantasy
+2402,1024,Horror
+2402,1059,Maze
+2402,1120,Print & Play
+2403,1002,Card Game
+2404,1010,Fantasy
+2404,1019,Wargame
+2405,1002,Card Game
+2406,1039,Deduction
+2407,1041,Children's Game
+2408,1041,Children's Game
+2408,1064,Movies / TV / Radio theme
+2408,1016,Science Fiction
+2409,1009,Abstract Strategy
+2409,1017,Dice
+2409,1098,Number
+2410,1008,Nautical
+2411,1009,Abstract Strategy
+2411,1059,Maze
+2411,1038,Sports
+2412,1002,Card Game
+2412,1025,Word Game
+2415,1009,Abstract Strategy
+2415,1086,Territory Building
+2417,1002,Card Game
+2418,1002,Card Game
+2419,1023,Bluffing
+2419,1026,Negotiation
+2419,1011,Transportation
+2420,1002,Card Game
+2421,1030,Party Game
+2421,1027,Trivia
+2421,1025,Word Game
+2422,1008,Nautical
+2422,1019,Wargame
+2422,1049,World War II
+2424,1032,Action / Dexterity
+2424,1002,Card Game
+2424,1041,Children's Game
+2424,1024,Horror
+2424,1030,Party Game
+2425,1041,Children's Game
+2425,1008,Nautical
+2426,1019,Wargame
+2426,1049,World War II
+2427,2726,Age of Reason
+2427,1075,American Revolutionary War
+2427,1019,Wargame
+2428,1048,American Civil War
+2428,2710,Post-Napoleonic
+2428,1019,Wargame
+2429,1041,Children's Game
+2429,1024,Horror
+2429,1064,Movies / TV / Radio theme
+2430,1025,Word Game
+2431,1021,Economic
+2433,1023,Bluffing
+2433,1002,Card Game
+2433,1024,Horror
+2433,1026,Negotiation
+2435,1030,Party Game
+2435,1027,Trivia
+2436,1039,Deduction
+2436,1064,Movies / TV / Radio theme
+2436,1040,Murder/Mystery
+2437,1002,Card Game
+2437,1035,Medieval
+2437,1120,Print & Play
+2438,1120,Print & Play
+2438,1016,Science Fiction
+2438,1019,Wargame
+2439,1008,Nautical
+2439,2710,Post-Napoleonic
+2439,1019,Wargame
+2440,1009,Abstract Strategy
+2440,1120,Print & Play
+2441,1009,Abstract Strategy
+2441,1120,Print & Play
+2442,1009,Abstract Strategy
+2442,1120,Print & Play
+2443,1031,Racing
+2443,1038,Sports
+2444,1047,Miniatures
+2444,1008,Nautical
+2444,1019,Wargame
+2444,1049,World War II
+2445,1009,Abstract Strategy
+2446,2650,Aviation / Flight
+2446,1047,Miniatures
+2446,1069,Modern Warfare
+2446,1019,Wargame
+2447,1019,Wargame
+2447,1049,World War II
+2448,1009,Abstract Strategy
+2450,1002,Card Game
+2450,1104,Math
+2451,1024,Horror
+2452,1032,Action / Dexterity
+2452,1030,Party Game
+2453,1009,Abstract Strategy
+2453,1086,Territory Building
+2455,1021,Economic
+2455,1034,Trains
+2455,1011,Transportation
+2456,1022,Adventure
+2456,1017,Dice
+2456,1010,Fantasy
+2456,1093,Novel-based
+2457,1032,Action / Dexterity
+2457,1047,Miniatures
+2457,1008,Nautical
+2457,1037,Real-time
+2457,1019,Wargame
+2457,1049,World War II
+2458,1089,Animals
+2458,1002,Card Game
+2458,1046,Fighting
+2460,1002,Card Game
+2460,1020,Exploration
+2460,1046,Fighting
+2460,1024,Horror
+2463,1002,Card Game
+2463,1017,Dice
+2464,1022,Adventure
+2464,1010,Fantasy
+2464,1019,Wargame
+2465,1002,Card Game
+2466,1009,Abstract Strategy
+2466,1041,Children's Game
+2467,1002,Card Game
+2468,1002,Card Game
+2469,1021,Economic
+2469,1088,Industry / Manufacturing
+2470,1022,Adventure
+2470,1030,Party Game
+2471,1020,Exploration
+2471,1046,Fighting
+2471,1024,Horror
+2471,1047,Miniatures
+2471,1064,Movies / TV / Radio theme
+2471,2481,Zombies
+2472,1002,Card Game
+2472,1024,Horror
+2472,1079,Humor
+2472,1064,Movies / TV / Radio theme
+2472,1016,Science Fiction
+2473,1009,Abstract Strategy
+2474,1019,Wargame
+2474,1049,World War II
+2476,1021,Economic
+2476,1084,Environmental
+2476,1088,Industry / Manufacturing
+2477,1069,Modern Warfare
+2477,1019,Wargame
+2478,1089,Animals
+2478,1002,Card Game
+2478,1084,Environmental
+2478,1036,Prehistoric
+2479,1001,Political
+2480,1036,Prehistoric
+2482,2650,Aviation / Flight
+2482,1041,Children's Game
+2482,1046,Fighting
+2482,1016,Science Fiction
+2482,1101,Video Game Theme
+2483,1010,Fantasy
+2483,1035,Medieval
+2483,1082,Mythology
+2483,1019,Wargame
+2484,1041,Children's Game
+2484,1094,Educational
+2484,1031,Racing
+2484,1097,Travel
+2485,1041,Children's Game
+2485,1021,Economic
+2485,1094,Educational
+2485,1011,Transportation
+2486,1009,Abstract Strategy
+2487,1045,Memory
+2487,1064,Movies / TV / Radio theme
+2487,1040,Murder/Mystery
+2489,1009,Abstract Strategy
+2489,1028,Puzzle
+2490,1001,Political
+2492,1010,Fantasy
+2492,1115,Religious
+2492,1070,Renaissance
+2493,1070,Renaissance
+2494,1050,Ancient
+2494,1015,Civilization
+2494,1035,Medieval
+2494,1019,Wargame
+2495,1017,Dice
+2495,1025,Word Game
+2496,1055,American West
+2496,1002,Card Game
+2496,1046,Fighting
+2496,1037,Real-time
+2497,1055,American West
+2497,1002,Card Game
+2497,1029,City Building
+2498,1032,Action / Dexterity
+2498,1041,Children's Game
+2498,1098,Number
+2499,1104,Math
+2500,1009,Abstract Strategy
+2500,1002,Card Game
+2501,1009,Abstract Strategy
+2502,1017,Dice
+2502,1021,Economic
+2503,1021,Economic
+2503,1001,Political
+2503,1016,Science Fiction
+2503,1113,Space Exploration
+2503,1019,Wargame
+2504,1009,Abstract Strategy
+2506,1009,Abstract Strategy
+2506,1046,Fighting
+2506,1120,Print & Play
+2507,1051,Napoleonic
+2507,1001,Political
+2508,1022,Adventure
+2508,1010,Fantasy
+2508,1047,Miniatures
+2508,1019,Wargame
+2509,1022,Adventure
+2509,1010,Fantasy
+2509,1047,Miniatures
+2509,1019,Wargame
+2510,1021,Economic
+2510,1088,Industry / Manufacturing
+2510,1026,Negotiation
+2511,1039,Deduction
+2511,1040,Murder/Mystery
+2511,1093,Novel-based
+2511,2710,Post-Napoleonic
+2511,1081,Spies/Secret Agents
+2512,1022,Adventure
+2512,1064,Movies / TV / Radio theme
+2513,1015,Civilization
+2513,1021,Economic
+2513,1020,Exploration
+2514,1009,Abstract Strategy
+2514,1029,City Building
+2515,1022,Adventure
+2515,1020,Exploration
+2515,1090,Pirates
+2516,1010,Fantasy
+2516,1047,Miniatures
+2516,1008,Nautical
+2516,1019,Wargame
+2517,1017,Dice
+2517,1021,Economic
+2517,1079,Humor
+2518,1022,Adventure
+2518,1020,Exploration
+2518,1031,Racing
+2520,1016,Science Fiction
+2520,1019,Wargame
+2521,1009,Abstract Strategy
+2522,2145,Medical
+2522,1064,Movies / TV / Radio theme
+2523,1028,Puzzle
+2524,1016,Science Fiction
+2524,1019,Wargame
+2525,1021,Economic
+2526,1041,Children's Game
+2526,1094,Educational
+2527,1016,Science Fiction
+2527,1019,Wargame
+2528,1055,American West
+2528,1041,Children's Game
+2529,2650,Aviation / Flight
+2529,1008,Nautical
+2529,1019,Wargame
+2529,1049,World War II
+2530,1010,Fantasy
+2530,1019,Wargame
+2531,1010,Fantasy
+2531,1019,Wargame
+2532,1029,City Building
+2533,1002,Card Game
+2533,1010,Fantasy
+2534,1020,Exploration
+2534,1064,Movies / TV / Radio theme
+2534,1016,Science Fiction
+2535,1015,Civilization
+2535,1046,Fighting
+2535,1036,Prehistoric
+2536,1023,Bluffing
+2537,1002,Card Game
+2537,1010,Fantasy
+2537,1035,Medieval
+2538,1020,Exploration
+2538,1026,Negotiation
+2538,2725,Pike and Shot
+2538,1070,Renaissance
+2538,1019,Wargame
+2539,1036,Prehistoric
+2540,1039,Deduction
+2540,1024,Horror
+2541,1089,Animals
+2541,1017,Dice
+2541,1016,Science Fiction
+2542,1002,Card Game
+2542,1010,Fantasy
+2543,1050,Ancient
+2543,1002,Card Game
+2545,1009,Abstract Strategy
+2546,1010,Fantasy
+2547,1010,Fantasy
+2548,1002,Card Game
+2549,1009,Abstract Strategy
+2550,1002,Card Game
+2550,1116,Comic Book / Strip
+2550,1010,Fantasy
+2550,1035,Medieval
+2552,1016,Science Fiction
+2552,1019,Wargame
+2553,1002,Card Game
+2553,1025,Word Game
+2554,1089,Animals
+2554,1031,Racing
+2555,1002,Card Game
+2555,1034,Trains
+2556,1020,Exploration
+2556,1031,Racing
+2556,1016,Science Fiction
+2557,1051,Napoleonic
+2557,1081,Spies/Secret Agents
+2557,1086,Territory Building
+2557,1019,Wargame
+2558,1002,Card Game
+2559,1009,Abstract Strategy
+2559,1059,Maze
+2559,1031,Racing
+2561,1009,Abstract Strategy
+2561,1093,Novel-based
+2561,1031,Racing
+2562,1021,Economic
+2562,1035,Medieval
+2562,1026,Negotiation
+2562,1001,Political
+2562,1019,Wargame
+2563,1002,Card Game
+2566,1002,Card Game
+2567,1002,Card Game
+2568,1002,Card Game
+2569,1089,Animals
+2569,1002,Card Game
+2569,1041,Children's Game
+2569,1026,Negotiation
+2570,1002,Card Game
+2570,1008,Nautical
+2570,1011,Transportation
+2572,1009,Abstract Strategy
+2572,1037,Real-time
+2573,1009,Abstract Strategy
+2573,1041,Children's Game
+2573,1034,Trains
+2573,1011,Transportation
+2574,1069,Modern Warfare
+2574,1019,Wargame
+2576,1002,Card Game
+2576,1015,Civilization
+2576,1019,Wargame
+2577,1009,Abstract Strategy
+2577,1041,Children's Game
+2578,1017,Dice
+2579,1069,Modern Warfare
+2579,1019,Wargame
+2580,1069,Modern Warfare
+2580,1019,Wargame
+2581,1017,Dice
+2582,1030,Party Game
+2582,1025,Word Game
+2583,1021,Economic
+2583,1120,Print & Play
+2583,1034,Trains
+2583,1011,Transportation
+2584,1039,Deduction
+2584,1072,Electronic
+2584,1069,Modern Warfare
+2584,1008,Nautical
+2584,1019,Wargame
+2586,1064,Movies / TV / Radio theme
+2586,1030,Party Game
+2586,1027,Trivia
+2589,1089,Animals
+2589,1002,Card Game
+2590,1023,Bluffing
+2590,1002,Card Game
+2592,1064,Movies / TV / Radio theme
+2592,1030,Party Game
+2592,1027,Trivia
+2593,1089,Animals
+2593,1017,Dice
+2593,1030,Party Game
+2594,1009,Abstract Strategy
+2594,1017,Dice
+2595,1047,Miniatures
+2595,1016,Science Fiction
+2595,1019,Wargame
+2596,1032,Action / Dexterity
+2596,1041,Children's Game
+2596,1030,Party Game
+2597,1089,Animals
+2597,1047,Miniatures
+2597,1064,Movies / TV / Radio theme
+2597,1031,Racing
+2597,1016,Science Fiction
+2598,1019,Wargame
+2598,1049,World War II
+2599,1010,Fantasy
+2599,1019,Wargame
+2600,1082,Mythology
+2600,1120,Print & Play
+2602,1002,Card Game
+2602,1028,Puzzle
+2603,1022,Adventure
+2603,1002,Card Game
+2603,1044,Collectible Components
+2603,1010,Fantasy
+2603,1064,Movies / TV / Radio theme
+2603,1093,Novel-based
+2604,1002,Card Game
+2604,1030,Party Game
+2604,1025,Word Game
+2605,1019,Wargame
+2605,1049,World War II
+2606,1008,Nautical
+2606,1019,Wargame
+2606,1049,World War II
+2607,1089,Animals
+2607,1031,Racing
+2607,1038,Sports
+2608,1021,Economic
+2608,1088,Industry / Manufacturing
+2609,1017,Dice
+2609,1031,Racing
+2610,1002,Card Game
+2610,1120,Print & Play
+2611,1017,Dice
+2611,1010,Fantasy
+2611,1024,Horror
+2611,1035,Medieval
+2611,1026,Negotiation
+2611,1070,Renaissance
+2612,1021,Economic
+2612,1120,Print & Play
+2612,1034,Trains
+2612,1011,Transportation
+2613,1024,Horror
+2613,1016,Science Fiction
+2613,1019,Wargame
+2614,1030,Party Game
+2614,1025,Word Game
+2616,1002,Card Game
+2616,1045,Memory
+2617,1028,Puzzle
+2618,1055,American West
+2618,1011,Transportation
+2619,1016,Science Fiction
+2619,1011,Transportation
+2620,1064,Movies / TV / Radio theme
+2621,1009,Abstract Strategy
+2624,1002,Card Game
+2625,1050,Ancient
+2625,1041,Children's Game
+2625,1045,Memory
+2627,1010,Fantasy
+2628,1041,Children's Game
+2628,1010,Fantasy
+2629,1050,Ancient
+2629,1041,Children's Game
+2629,1020,Exploration
+2629,1045,Memory
+2629,1082,Mythology
+2630,1002,Card Game
+2631,1009,Abstract Strategy
+2633,1002,Card Game
+2634,1009,Abstract Strategy
+2635,1021,Economic
+2636,1009,Abstract Strategy
+2636,1002,Card Game
+2637,1050,Ancient
+2637,1019,Wargame
+2638,1019,Wargame
+2638,1065,World War I
+2639,1019,Wargame
+2639,1049,World War II
+2640,1002,Card Game
+2640,1044,Collectible Components
+2640,1021,Economic
+2640,1064,Movies / TV / Radio theme
+2640,1026,Negotiation
+2640,1001,Political
+2640,1016,Science Fiction
+2641,1050,Ancient
+2641,1015,Civilization
+2641,1021,Economic
+2641,1035,Medieval
+2641,1019,Wargame
+2642,1009,Abstract Strategy
+2642,1001,Political
+2643,1069,Modern Warfare
+2643,1019,Wargame
+2644,1039,Deduction
+2644,1064,Movies / TV / Radio theme
+2644,1040,Murder/Mystery
+2645,1029,City Building
+2647,2145,Medical
+2647,1027,Trivia
+2648,1023,Bluffing
+2648,1030,Party Game
+2649,1009,Abstract Strategy
+2649,1089,Animals
+2649,1041,Children's Game
+2650,2145,Medical
+2651,1021,Economic
+2651,1088,Industry / Manufacturing
+2652,1023,Bluffing
+2652,1030,Party Game
+2652,1025,Word Game
+2653,1022,Adventure
+2653,1089,Animals
+2653,1023,Bluffing
+2653,1008,Nautical
+2654,1002,Card Game
+2655,1009,Abstract Strategy
+2655,1089,Animals
+2656,1046,Fighting
+2656,1024,Horror
+2656,1047,Miniatures
+2656,1019,Wargame
+2657,1089,Animals
+2657,1002,Card Game
+2658,1002,Card Game
+2658,1021,Economic
+2659,1002,Card Game
+2659,1024,Horror
+2660,1002,Card Game
+2660,1064,Movies / TV / Radio theme
+2661,1041,Children's Game
+2661,1017,Dice
+2661,1047,Miniatures
+2661,1064,Movies / TV / Radio theme
+2661,1019,Wargame
+2664,1031,Racing
+2665,1102,Civil War
+2665,1019,Wargame
+2666,2725,Pike and Shot
+2666,1115,Religious
+2666,1070,Renaissance
+2666,1019,Wargame
+2667,1030,Party Game
+2668,1030,Party Game
+2668,1025,Word Game
+2669,1089,Animals
+2669,1002,Card Game
+2669,1041,Children's Game
+2669,1010,Fantasy
+2671,1041,Children's Game
+2672,1002,Card Game
+2672,1010,Fantasy
+2672,1064,Movies / TV / Radio theme
+2672,1093,Novel-based
+2673,1002,Card Game
+2674,1002,Card Game
+2674,1035,Medieval
+2676,1031,Racing
+2676,1038,Sports
+2677,1045,Memory
+2677,1064,Movies / TV / Radio theme
+2677,1027,Trivia
+2678,1022,Adventure
+2678,1020,Exploration
+2678,1016,Science Fiction
+2678,1113,Space Exploration
+2679,1032,Action / Dexterity
+2679,1089,Animals
+2679,1041,Children's Game
+2680,1017,Dice
+2680,1021,Economic
+2681,1039,Deduction
+2681,1064,Movies / TV / Radio theme
+2681,1054,Music
+2681,1025,Word Game
+2683,1041,Children's Game
+2683,1017,Dice
+2685,1027,Trivia
+2685,1025,Word Game
+2687,1002,Card Game
+2687,1038,Sports
+2688,1064,Movies / TV / Radio theme
+2688,1016,Science Fiction
+2689,1021,Economic
+2689,1034,Trains
+2689,1011,Transportation
+2690,1035,Medieval
+2690,1093,Novel-based
+2690,1019,Wargame
+2691,1009,Abstract Strategy
+2691,1035,Medieval
+2692,1030,Party Game
+2692,1031,Racing
+2692,1038,Sports
+2693,1032,Action / Dexterity
+2694,1023,Bluffing
+2694,1002,Card Game
+2695,1002,Card Game
+2696,1022,Adventure
+2696,1050,Ancient
+2696,1020,Exploration
+2697,1021,Economic
+2697,1008,Nautical
+2698,1002,Card Game
+2698,1034,Trains
+2698,1011,Transportation
+2699,1069,Modern Warfare
+2699,1019,Wargame
+2700,1045,Memory
+2701,1002,Card Game
+2701,1038,Sports
+2702,1008,Nautical
+2702,1070,Renaissance
+2704,1009,Abstract Strategy
+2704,1117,Book
+2704,1002,Card Game
+2704,1017,Dice
+2704,1026,Negotiation
+2704,1001,Political
+2704,1038,Sports
+2705,1055,American West
+2705,1117,Book
+2705,1002,Card Game
+2706,1024,Horror
+2706,1019,Wargame
+2706,2481,Zombies
+2707,1002,Card Game
+2707,1039,Deduction
+2709,1010,Fantasy
+2709,1019,Wargame
+2710,1009,Abstract Strategy
+2711,1002,Card Game
+2711,1041,Children's Game
+2712,1021,Economic
+2712,1026,Negotiation
+2712,1070,Renaissance
+2713,1021,Economic
+2713,1026,Negotiation
+2713,1093,Novel-based
+2716,1002,Card Game
+2716,1035,Medieval
+2717,1010,Fantasy
+2717,1064,Movies / TV / Radio theme
+2718,1088,Industry / Manufacturing
+2718,2710,Post-Napoleonic
+2718,1019,Wargame
+2719,1009,Abstract Strategy
+2719,1041,Children's Game
+2720,1016,Science Fiction
+2720,1019,Wargame
+2721,1017,Dice
+2721,1038,Sports
+2722,1027,Trivia
+2723,1019,Wargame
+2724,1108,American Indian Wars
+2724,1055,American West
+2724,1064,Movies / TV / Radio theme
+2724,1019,Wargame
+2725,1064,Movies / TV / Radio theme
+2725,1016,Science Fiction
+2725,1019,Wargame
+2726,1032,Action / Dexterity
+2726,1041,Children's Game
+2728,1009,Abstract Strategy
+2728,1072,Electronic
+2730,1017,Dice
+2731,1009,Abstract Strategy
+2732,1031,Racing
+2732,1038,Sports
+2732,1101,Video Game Theme
+2733,1002,Card Game
+2733,1001,Political
+2734,1054,Music
+2734,1030,Party Game
+2736,1010,Fantasy
+2736,1019,Wargame
+2738,1002,Card Game
+2738,1010,Fantasy
+2740,2650,Aviation / Flight
+2740,1021,Economic
+2740,1097,Travel
+2742,2650,Aviation / Flight
+2742,1019,Wargame
+2742,1065,World War I
+2743,1021,Economic
+2743,1020,Exploration
+2743,1016,Science Fiction
+2743,1113,Space Exploration
+2743,1019,Wargame
+2744,1002,Card Game
+2744,1021,Economic
+2744,1030,Party Game
+2745,1002,Card Game
+2745,1064,Movies / TV / Radio theme
+2745,1030,Party Game
+2745,1038,Sports
+2745,1025,Word Game
+2746,1016,Science Fiction
+2746,1019,Wargame
+2747,1054,Music
+2748,2725,Pike and Shot
+2748,1019,Wargame
+2749,1048,American Civil War
+2749,1019,Wargame
+2750,1023,Bluffing
+2750,1079,Humor
+2750,1030,Party Game
+2751,1019,Wargame
+2751,1065,World War I
+2752,1002,Card Game
+2752,1019,Wargame
+2752,1049,World War II
+2753,1031,Racing
+2753,1016,Science Fiction
+2754,1021,Economic
+2754,1026,Negotiation
+2754,1001,Political
+2755,1021,Economic
+2755,1001,Political
+2756,1015,Civilization
+2756,1026,Negotiation
+2756,1001,Political
+2756,1016,Science Fiction
+2756,1019,Wargame
+2757,1016,Science Fiction
+2757,1019,Wargame
+2758,1002,Card Game
+2759,1009,Abstract Strategy
+2760,1116,Comic Book / Strip
+2760,1020,Exploration
+2760,1010,Fantasy
+2760,1046,Fighting
+2762,1009,Abstract Strategy
+2762,1002,Card Game
+2762,1041,Children's Game
+2762,1119,Game System
+2762,1025,Word Game
+2763,1009,Abstract Strategy
+2763,1045,Memory
+2764,1002,Card Game
+2765,1002,Card Game
+2766,1089,Animals
+2766,1064,Movies / TV / Radio theme
+2766,1030,Party Game
+2766,1038,Sports
+2766,1027,Trivia
+2767,1041,Children's Game
+2767,1017,Dice
+2767,1031,Racing
+2768,1017,Dice
+2770,1009,Abstract Strategy
+2771,1010,Fantasy
+2772,1009,Abstract Strategy
+2773,1022,Adventure
+2773,1002,Card Game
+2773,1116,Comic Book / Strip
+2773,1020,Exploration
+2773,1010,Fantasy
+2773,1046,Fighting
+2773,1035,Medieval
+2775,1010,Fantasy
+2775,1093,Novel-based
+2775,1019,Wargame
+2776,1002,Card Game
+2776,1046,Fighting
+2776,1016,Science Fiction
+2777,1022,Adventure
+2777,1089,Animals
+2777,1041,Children's Game
+2777,1045,Memory
+2778,1010,Fantasy
+2778,1093,Novel-based
+2778,1019,Wargame
+2779,1010,Fantasy
+2779,1093,Novel-based
+2779,1019,Wargame
+2780,1002,Card Game
+2781,1002,Card Game
+2781,1037,Real-time
+2781,1025,Word Game
+2782,1002,Card Game
+2782,1045,Memory
+2783,1041,Children's Game
+2784,1089,Animals
+2784,1035,Medieval
+2785,1089,Animals
+2785,1041,Children's Game
+2785,1094,Educational
+2785,1031,Racing
+2788,1041,Children's Game
+2788,1031,Racing
+2789,1089,Animals
+2789,1041,Children's Game
+2789,1017,Dice
+2790,1041,Children's Game
+2791,1089,Animals
+2791,1041,Children's Game
+2792,1089,Animals
+2792,1041,Children's Game
+2792,1045,Memory
+2792,1030,Party Game
+2793,1089,Animals
+2793,1041,Children's Game
+2794,1032,Action / Dexterity
+2795,1046,Fighting
+2795,1047,Miniatures
+2795,1031,Racing
+2795,1016,Science Fiction
+2795,1038,Sports
+2795,1019,Wargame
+2796,1002,Card Game
+2796,1017,Dice
+139365,1032,Action / Dexterity
+139365,1089,Animals
+139365,1041,Children's Game
+139365,1072,Electronic
+139365,1030,Party Game
+139366,1032,Action / Dexterity
+139366,1041,Children's Game
+139366,1072,Electronic
+139366,1030,Party Game
+139367,1016,Science Fiction
+139367,1113,Space Exploration
+139367,1019,Wargame
+139369,1089,Animals
+139369,1021,Economic
+139369,1026,Negotiation
+139370,1023,Bluffing
+139370,1035,Medieval
+139370,1040,Murder/Mystery
+139370,1030,Party Game
+139372,1041,Children's Game
+139372,1017,Dice
+139372,1094,Educational
+139372,1031,Racing
+139373,1041,Children's Game
+139373,1017,Dice
+139373,1034,Trains
+139374,1023,Bluffing
+139374,1002,Card Game
+139376,1041,Children's Game
+139376,1064,Movies / TV / Radio theme
+139388,1002,Card Game
+139388,1039,Deduction
+139388,1017,Dice
+139388,1079,Humor
+139388,1093,Novel-based
+139388,1030,Party Game
+139388,1120,Print & Play
+139390,1032,Action / Dexterity
+139390,1059,Maze
+139401,1010,Fantasy
+139401,1035,Medieval
+139401,1086,Territory Building
+139405,1030,Party Game
+139430,1031,Racing
+139433,1091,Korean War
+139433,1109,Vietnam War
+139433,1019,Wargame
+139433,1049,World War II
+139443,1002,Card Game
+139443,1116,Comic Book / Strip
+139443,1046,Fighting
+139443,1079,Humor
+139443,1030,Party Game
+139452,1038,Sports
+139453,1038,Sports
+139454,1038,Sports
+139456,1022,Adventure
+139456,1002,Card Game
+139456,1046,Fighting
+139456,1016,Science Fiction
+139457,1041,Children's Game
+139457,1017,Dice
+139457,1094,Educational
+139457,1031,Racing
+139471,1029,City Building
+139471,1015,Civilization
+139475,1002,Card Game
+139477,1009,Abstract Strategy
+139485,1017,Dice
+139485,1047,Miniatures
+139485,1120,Print & Play
+139485,1031,Racing
+139485,1038,Sports
+139494,1030,Party Game
+139494,1025,Word Game
+139495,1002,Card Game
+139495,1037,Real-time
+139506,1041,Children's Game
+139506,1017,Dice
+139506,1094,Educational
+139506,1065,World War I
+139507,1041,Children's Game
+139507,1028,Puzzle
+139508,1029,City Building
+139508,1001,Political
+139508,1070,Renaissance
+139508,1086,Territory Building
+139518,1009,Abstract Strategy
+139518,1041,Children's Game
+139518,1094,Educational
+139519,1009,Abstract Strategy
+139520,1024,Horror
+139520,1079,Humor
+139520,1064,Movies / TV / Radio theme
+139520,1093,Novel-based
+139523,1040,Murder/Mystery
+139523,1030,Party Game
+139528,1023,Bluffing
+139528,1041,Children's Game
+139528,1120,Print & Play
+139552,1032,Action / Dexterity
+139552,1041,Children's Game
+139553,1002,Card Game
+139553,1041,Children's Game
+139553,1093,Novel-based
+139554,1089,Animals
+139554,1041,Children's Game
+139554,1017,Dice
+139554,1031,Racing
+139557,1002,Card Game
+139557,1079,Humor
+139557,1118,Mature / Adult
+139557,1030,Party Game
+139557,1027,Trivia
+139558,1002,Card Game
+139558,1045,Memory
+139559,1002,Card Game
+139559,1041,Children's Game
+139559,1020,Exploration
+139559,1024,Horror
+139562,1021,Economic
+139562,1020,Exploration
+139562,1088,Industry / Manufacturing
+139562,1098,Number
+139563,1079,Humor
+139563,1030,Party Game
+139563,1027,Trivia
+139564,1094,Educational
+139564,1025,Word Game
+139572,1009,Abstract Strategy
+139579,1002,Card Game
+139579,1094,Educational
+139579,1079,Humor
+139579,1118,Mature / Adult
+139579,1030,Party Game
+139579,1027,Trivia
+139579,1025,Word Game
+139581,1079,Humor
+139581,1030,Party Game
+139581,1027,Trivia
+139585,1029,City Building
+139585,1017,Dice
+139585,1021,Economic
+139585,1094,Educational
+139585,1097,Travel
+139587,1030,Party Game
+139588,1022,Adventure
+139588,1010,Fantasy
+139588,1035,Medieval
+139588,1120,Print & Play
+139588,1101,Video Game Theme
+139589,1029,City Building
+139589,1017,Dice
+139589,1021,Economic
+139589,1094,Educational
+139593,1002,Card Game
+139593,1041,Children's Game
+139593,1094,Educational
+139593,1104,Math
+139593,1098,Number
+139602,1029,City Building
+139602,1017,Dice
+139602,1021,Economic
+139602,1094,Educational
+139607,1022,Adventure
+139607,1002,Card Game
+139607,1010,Fantasy
+139607,1035,Medieval
+139615,1041,Children's Game
+139615,1094,Educational
+139615,1104,Math
+139615,1098,Number
+139616,1029,City Building
+139616,1017,Dice
+139616,1021,Economic
+139616,1094,Educational
+139617,1029,City Building
+139617,1017,Dice
+139617,1021,Economic
+139617,1094,Educational
+139618,1029,City Building
+139618,1017,Dice
+139618,1021,Economic
+139618,1094,Educational
+139619,1029,City Building
+139619,1017,Dice
+139619,1021,Economic
+139619,1094,Educational
+139620,1029,City Building
+139620,1017,Dice
+139620,1021,Economic
+139620,1094,Educational
+139621,1002,Card Game
+139621,1047,Miniatures
+139623,1002,Card Game
+139624,1029,City Building
+139624,1017,Dice
+139624,1021,Economic
+139624,1094,Educational
+139626,1089,Animals
+139626,1041,Children's Game
+139627,1023,Bluffing
+139627,1002,Card Game
+139627,1010,Fantasy
+139628,1041,Children's Game
+139628,1094,Educational
+139628,1104,Math
+139628,1025,Word Game
+139629,1023,Bluffing
+139629,1002,Card Game
+139629,1041,Children's Game
+139629,1010,Fantasy
+139631,1041,Children's Game
+139631,1094,Educational
+139631,1045,Memory
+139632,1010,Fantasy
+139632,1035,Medieval
+139633,1041,Children's Game
+139633,1017,Dice
+139633,1020,Exploration
+139633,1064,Movies / TV / Radio theme
+139633,1093,Novel-based
+139634,1025,Word Game
+139637,1002,Card Game
+139637,2481,Zombies
+139640,1017,Dice
+139640,1090,Pirates
+139640,1120,Print & Play
+139642,1022,Adventure
+139645,1050,Ancient
+139645,1046,Fighting
+139645,1047,Miniatures
+139645,1038,Sports
+139645,1019,Wargame
+139646,1089,Animals
+139646,1002,Card Game
+139646,1017,Dice
+139646,1020,Exploration
+139646,1024,Horror
+139646,1079,Humor
+139646,1118,Mature / Adult
+139646,1064,Movies / TV / Radio theme
+139646,1008,Nautical
+139659,1041,Children's Game
+139659,1017,Dice
+139659,1064,Movies / TV / Radio theme
+139660,1029,City Building
+139660,1039,Deduction
+139660,1035,Medieval
+139660,1028,Puzzle
+139664,1041,Children's Game
+139664,1031,Racing
+139664,1097,Travel
+139674,1021,Economic
+139674,1026,Negotiation
+139675,1002,Card Game
+139675,1015,Civilization
+139675,1120,Print & Play
+139675,1016,Science Fiction
+139676,1002,Card Game
+139676,1079,Humor
+139676,1098,Number
+139676,1030,Party Game
+139678,1089,Animals
+139678,1041,Children's Game
+139678,1045,Memory
+139679,1010,Fantasy
+139679,1047,Miniatures
+139681,1045,Memory
+139682,1002,Card Game
+139682,1024,Horror
+139682,1120,Print & Play
+139683,1001,Political
+139684,1017,Dice
+139684,1046,Fighting
+139686,1055,American West
+139686,1041,Children's Game
+139686,1017,Dice
+139686,1064,Movies / TV / Radio theme
+139686,1031,Racing
+139687,1094,Educational
+139687,1084,Environmental
+139687,1027,Trivia
+139688,1032,Action / Dexterity
+139688,1041,Children's Game
+139688,1044,Collectible Components
+139688,1046,Fighting
+139690,1002,Card Game
+139690,1024,Horror
+139690,2481,Zombies
+139691,1041,Children's Game
+139697,1009,Abstract Strategy
+139697,1041,Children's Game
+139701,1041,Children's Game
+139701,1094,Educational
+139703,1009,Abstract Strategy
+139705,1030,Party Game
+139708,1002,Card Game
+139708,1079,Humor
+139708,1030,Party Game
+139708,1025,Word Game
+139711,1039,Deduction
+139711,1094,Educational
+139711,1026,Negotiation
+139712,1120,Print & Play
+139712,1016,Science Fiction
+139712,1019,Wargame
+139715,1050,Ancient
+139715,1117,Book
+139715,1010,Fantasy
+139715,1047,Miniatures
+139715,1082,Mythology
+139719,2650,Aviation / Flight
+139719,1047,Miniatures
+139719,1019,Wargame
+139720,1047,Miniatures
+139720,1069,Modern Warfare
+139720,1019,Wargame
+139721,1115,Religious
+139725,1089,Animals
+139725,1041,Children's Game
+139725,1094,Educational
+139725,1064,Movies / TV / Radio theme
+139725,1093,Novel-based
+139728,1002,Card Game
+139728,1031,Racing
+139728,1038,Sports
+139734,1027,Trivia
+139736,1117,Book
+139736,1047,Miniatures
+139736,1051,Napoleonic
+139736,1019,Wargame
+139737,1117,Book
+139737,1047,Miniatures
+139737,1051,Napoleonic
+139737,1008,Nautical
+139737,1019,Wargame
+139738,1050,Ancient
+139738,1117,Book
+139738,1047,Miniatures
+139738,1008,Nautical
+139738,1019,Wargame
+139743,1048,American Civil War
+139743,1102,Civil War
+139743,2710,Post-Napoleonic
+139743,1019,Wargame
+139745,1038,Sports
+139747,1050,Ancient
+139747,1010,Fantasy
+139747,1046,Fighting
+139747,1047,Miniatures
+139749,1017,Dice
+139749,1094,Educational
+139749,1027,Trivia
+139750,1002,Card Game
+139750,1041,Children's Game
+139750,1094,Educational
+139750,1104,Math
+139751,1002,Card Game
+139751,1041,Children's Game
+139751,1094,Educational
+139753,1002,Card Game
+139753,1079,Humor
+139753,1030,Party Game
+139754,1023,Bluffing
+139754,1021,Economic
+139755,1041,Children's Game
+139755,1094,Educational
+139755,1104,Math
+139758,1021,Economic
+139758,1026,Negotiation
+139759,1041,Children's Game
+139759,1094,Educational
+139759,1115,Religious
+139761,1029,City Building
+139761,1021,Economic
+139762,1094,Educational
+139762,1084,Environmental
+139765,1050,Ancient
+139765,1094,Educational
+139765,1035,Medieval
+139765,1030,Party Game
+139769,2650,Aviation / Flight
+139769,1047,Miniatures
+139769,1064,Movies / TV / Radio theme
+139769,1016,Science Fiction
+139769,1113,Space Exploration
+139770,1022,Adventure
+139770,1120,Print & Play
+139770,1031,Racing
+139770,1016,Science Fiction
+139771,2650,Aviation / Flight
+139771,1044,Collectible Components
+139771,1047,Miniatures
+139771,1064,Movies / TV / Radio theme
+139771,1016,Science Fiction
+139771,1019,Wargame
+139779,1089,Animals
+139779,1002,Card Game
+139779,1045,Memory
+139780,1032,Action / Dexterity
+139780,1041,Children's Game
+139780,1116,Comic Book / Strip
+139780,1035,Medieval
+139780,1037,Real-time
+139790,1017,Dice
+139790,1031,Racing
+139797,1115,Religious
+139797,1027,Trivia
+139798,1032,Action / Dexterity
+139798,1038,Sports
+139800,1022,Adventure
+139800,1010,Fantasy
+139807,1022,Adventure
+139807,1020,Exploration
+139807,1097,Travel
+139809,1022,Adventure
+139809,1042,Expansion for Base-game
+139809,1020,Exploration
+139809,1097,Travel
+139810,1002,Card Game
+139810,1024,Horror
+139810,1079,Humor
+139810,1064,Movies / TV / Radio theme
+139810,1030,Party Game
+139815,1009,Abstract Strategy
+139815,1079,Humor
+139817,1022,Adventure
+139817,1020,Exploration
+139817,1010,Fantasy
+139817,1046,Fighting
+139817,1079,Humor
+139817,1035,Medieval
+139817,1101,Video Game Theme
+139818,1017,Dice
+139818,1026,Negotiation
+139820,1009,Abstract Strategy
+139820,2650,Aviation / Flight
+139820,1017,Dice
+139820,1046,Fighting
+139820,1016,Science Fiction
+139820,1019,Wargame
+139824,1021,Economic
+139824,1026,Negotiation
+139828,1002,Card Game
+139828,1017,Dice
+139828,1038,Sports
+139831,1021,Economic
+139831,1026,Negotiation
+139832,1021,Economic
+139832,1026,Negotiation
+139833,1021,Economic
+139833,1026,Negotiation
+139834,1021,Economic
+139834,1026,Negotiation
+139835,1021,Economic
+139835,1026,Negotiation
+139836,1021,Economic
+139836,1026,Negotiation
+139837,1021,Economic
+139837,1026,Negotiation
+139838,1021,Economic
+139838,1026,Negotiation
+139839,1021,Economic
+139839,1026,Negotiation
+139842,1094,Educational
+139842,1020,Exploration
+139842,1008,Nautical
+139842,1026,Negotiation
+139842,1027,Trivia
+139843,1024,Horror
+139843,1064,Movies / TV / Radio theme
+139843,1120,Print & Play
+139844,1035,Medieval
+139845,1021,Economic
+139845,1026,Negotiation
+139846,1021,Economic
+139846,1026,Negotiation
+139848,1021,Economic
+139848,1026,Negotiation
+139856,1021,Economic
+139856,1026,Negotiation
+139858,1032,Action / Dexterity
+139858,1041,Children's Game
+139858,1079,Humor
+139858,1030,Party Game
+139858,1031,Racing
+139859,1032,Action / Dexterity
+139859,1089,Animals
+139859,1041,Children's Game
+139859,1030,Party Game
+139861,1094,Educational
+139878,1055,American West
+139878,1046,Fighting
+139878,1064,Movies / TV / Radio theme
+139894,1002,Card Game
+139897,1002,Card Game
+139897,1079,Humor
+139898,1021,Economic
+139898,1088,Industry / Manufacturing
+139899,1017,Dice
+139901,1002,Card Game
+139901,1016,Science Fiction
+139920,1041,Children's Game
+139920,1072,Electronic
+139920,1045,Memory
+139929,1032,Action / Dexterity
+139929,1041,Children's Game
+139929,1030,Party Game
+139929,1031,Racing
+139930,1032,Action / Dexterity
+139930,1041,Children's Game
+139930,1079,Humor
+139930,1030,Party Game
+139930,1031,Racing
+139931,1002,Card Game
+139932,2650,Aviation / Flight
+139932,1047,Miniatures
+139932,1019,Wargame
+139932,1049,World War II
+139942,1041,Children's Game
+139942,1017,Dice
+139942,1031,Racing
+139946,1023,Bluffing
+139946,1030,Party Game
+139947,1002,Card Game
+139947,1026,Negotiation
+139947,1030,Party Game
+139950,1010,Fantasy
+139950,1016,Science Fiction
+139951,1023,Bluffing
+139951,1041,Children's Game
+139951,1020,Exploration
+139951,1045,Memory
+139952,1015,Civilization
+139952,1010,Fantasy
+139952,1086,Territory Building
+139952,1019,Wargame
+139953,1120,Print & Play
+139953,1031,Racing
+139956,1041,Children's Game
+139956,1031,Racing
+139958,1064,Movies / TV / Radio theme
+139958,1016,Science Fiction
+139958,1019,Wargame
+139963,1032,Action / Dexterity
+139963,1041,Children's Game
+139975,1017,Dice
+139975,1104,Math
+139976,1010,Fantasy
+139976,1046,Fighting
+139976,1024,Horror
+139976,1047,Miniatures
+139991,1070,Renaissance
+139992,1047,Miniatures
+139992,1038,Sports
+139993,1035,Medieval
+139993,1086,Territory Building
+140001,1041,Children's Game
+140019,1064,Movies / TV / Radio theme
+140019,1027,Trivia
+140026,1032,Action / Dexterity
+140026,1041,Children's Game
+140026,1094,Educational
+140026,1059,Maze
+140026,1045,Memory
+140028,1021,Economic
+140028,1026,Negotiation
+140029,1021,Economic
+140029,1026,Negotiation
+140030,1021,Economic
+140030,1026,Negotiation
+140031,1021,Economic
+140031,1026,Negotiation
+140032,1022,Adventure
+140032,1021,Economic
+140032,1020,Exploration
+140032,1010,Fantasy
+140032,1013,Farming
+140032,1046,Fighting
+140033,1021,Economic
+140033,1026,Negotiation
+140034,1021,Economic
+140034,1026,Negotiation
+140035,1021,Economic
+140035,1026,Negotiation
+140036,1021,Economic
+140036,1026,Negotiation
+140037,1021,Economic
+140037,1026,Negotiation
+140038,1021,Economic
+140038,1026,Negotiation
+140040,1021,Economic
+140040,1026,Negotiation
+140041,1021,Economic
+140041,1026,Negotiation
+140042,1021,Economic
+140042,1026,Negotiation
+140043,1021,Economic
+140043,1026,Negotiation
+140044,1021,Economic
+140044,1026,Negotiation
+140046,1021,Economic
+140046,1026,Negotiation
+140053,1009,Abstract Strategy
+140055,1021,Economic
+140055,1011,Transportation
+140060,1017,Dice
+140060,1010,Fantasy
+140060,1120,Print & Play
+140065,1050,Ancient
+140065,1023,Bluffing
+140065,1002,Card Game
+140065,1102,Civil War
+140065,1046,Fighting
+140065,1093,Novel-based
+140067,1002,Card Game
+140067,1049,World War II
+140068,1037,Real-time
+140068,1016,Science Fiction
+140068,1113,Space Exploration
+140068,1011,Transportation
+140076,1021,Economic
+140076,1026,Negotiation
+140078,1002,Card Game
+140078,1038,Sports
+140079,1002,Card Game
+140079,1064,Movies / TV / Radio theme
+140084,1022,Adventure
+140084,2650,Aviation / Flight
+140084,1010,Fantasy
+140084,1047,Miniatures
+140084,1090,Pirates
+140084,1016,Science Fiction
+140086,1032,Action / Dexterity
+140086,1002,Card Game
+140086,1041,Children's Game
+140086,1064,Movies / TV / Radio theme
+140088,1021,Economic
+140088,1020,Exploration
+140088,1088,Industry / Manufacturing
+140088,1120,Print & Play
+140088,1031,Racing
+140088,1034,Trains
+140090,1002,Card Game
+140090,1041,Children's Game
+140090,1094,Educational
+140097,1030,Party Game
+140099,1113,Space Exploration
+140100,1002,Card Game
+140100,1116,Comic Book / Strip
+140100,1046,Fighting
+140101,1020,Exploration
+140101,1010,Fantasy
+140101,1035,Medieval
+140105,1021,Economic
+140105,1026,Negotiation
+140106,1094,Educational
+140106,1104,Math
+140106,1027,Trivia
+140108,1021,Economic
+140108,1026,Negotiation
+140109,1021,Economic
+140109,1026,Negotiation
+140112,1021,Economic
+140112,1026,Negotiation
+140113,1069,Modern Warfare
+140113,1109,Vietnam War
+140113,1019,Wargame
+140121,1021,Economic
+140121,1026,Negotiation
+140122,1022,Adventure
+140122,1097,Travel
+140123,1021,Economic
+140123,1026,Negotiation
+140125,1002,Card Game
+140125,1017,Dice
+140125,1020,Exploration
+140125,1010,Fantasy
+140127,1002,Card Game
+140127,1054,Music
+140127,1027,Trivia
+140130,1021,Economic
+140130,1026,Negotiation
+140131,1021,Economic
+140131,1026,Negotiation
+140135,1015,Civilization
+140135,1010,Fantasy
+140135,1086,Territory Building
+140136,1002,Card Game
+140136,1035,Medieval
+140138,1023,Bluffing
+140138,1002,Card Game
+140138,1064,Movies / TV / Radio theme
+140138,1090,Pirates
+140138,1120,Print & Play
+140140,1002,Card Game
+140140,1027,Trivia
+140141,1021,Economic
+140141,1026,Negotiation
+140143,1002,Card Game
+140143,1021,Economic
+140143,1094,Educational
+140143,1088,Industry / Manufacturing
+140144,1002,Card Game
+140144,1039,Deduction
+140145,1021,Economic
+140145,1026,Negotiation
+140146,1021,Economic
+140146,1026,Negotiation
+140147,1021,Economic
+140147,1026,Negotiation
+140148,1021,Economic
+140148,1026,Negotiation
+140151,1021,Economic
+140151,1026,Negotiation
+140152,1064,Movies / TV / Radio theme
+140152,1016,Science Fiction
+140152,1019,Wargame
+140153,1002,Card Game
+140153,1019,Wargame
+140155,1023,Bluffing
+140155,1002,Card Game
+140155,1039,Deduction
+140155,1081,Spies/Secret Agents
+140156,1021,Economic
+140156,1088,Industry / Manufacturing
+140156,1026,Negotiation
+140159,1038,Sports
+140159,1027,Trivia
+140161,1027,Trivia
+140163,1089,Animals
+140163,1023,Bluffing
+140163,1002,Card Game
+140163,1120,Print & Play
+140164,2650,Aviation / Flight
+140164,1019,Wargame
+140164,1049,World War II
+140170,1041,Children's Game
+140170,1094,Educational
+140171,1002,Card Game
+140171,1015,Civilization
+140171,1084,Environmental
+140172,1009,Abstract Strategy
+140172,1089,Animals
+140172,1086,Territory Building
+140177,1041,Children's Game
+140177,1017,Dice
+140177,1094,Educational
+140177,1031,Racing
+140178,1041,Children's Game
+140178,1017,Dice
+140178,1031,Racing
+140179,1021,Economic
+140179,1088,Industry / Manufacturing
+140179,1035,Medieval
+140182,1021,Economic
+140182,1026,Negotiation
+140183,1021,Economic
+140183,1026,Negotiation
+140184,1021,Economic
+140184,1026,Negotiation
+140185,1021,Economic
+140185,1026,Negotiation
+140186,1021,Economic
+140186,1026,Negotiation
+140188,1021,Economic
+140188,1026,Negotiation
+140189,1021,Economic
+140189,1026,Negotiation
+140190,1021,Economic
+140190,1026,Negotiation
+140191,1002,Card Game
+140191,1041,Children's Game
+140191,1045,Memory
+140191,1064,Movies / TV / Radio theme
+140192,1021,Economic
+140192,1026,Negotiation
+140194,1094,Educational
+140194,1027,Trivia
+140195,1019,Wargame
+140195,1049,World War II
+140197,1032,Action / Dexterity
+140197,1089,Animals
+140197,1041,Children's Game
+140198,1032,Action / Dexterity
+140198,1041,Children's Game
+140198,1016,Science Fiction
+140198,1101,Video Game Theme
+140201,1021,Economic
+140201,1026,Negotiation
+140202,1021,Economic
+140202,1026,Negotiation
+140204,1089,Animals
+140204,1021,Economic
+140204,1026,Negotiation
+140205,1094,Educational
+140205,2145,Medical
+140206,1021,Economic
+140206,1026,Negotiation
+140207,1002,Card Game
+140207,1041,Children's Game
+140207,1064,Movies / TV / Radio theme
+140207,1054,Music
+140211,1021,Economic
+140211,1026,Negotiation
+140212,1021,Economic
+140212,1026,Negotiation
+140213,1025,Word Game
+140216,1041,Children's Game
+140216,2145,Medical
+140218,1002,Card Game
+140218,1041,Children's Game
+140218,1017,Dice
+140218,1010,Fantasy
+140219,1025,Word Game
+140221,1041,Children's Game
+140221,1017,Dice
+140221,1094,Educational
+140221,1031,Racing
+140221,1097,Travel
+140223,1032,Action / Dexterity
+140223,1044,Collectible Components
+140224,1041,Children's Game
+140224,1017,Dice
+140224,1094,Educational
+140224,1031,Racing
+140224,1097,Travel
+140232,1021,Economic
+140232,1026,Negotiation
+140235,1047,Miniatures
+140235,1019,Wargame
+140235,1049,World War II
+140236,1009,Abstract Strategy
+140236,1028,Puzzle
+140238,1041,Children's Game
+140238,1094,Educational
+140238,1013,Farming
+140240,1041,Children's Game
+140244,1050,Ancient
+140244,1046,Fighting
+140244,1047,Miniatures
+140246,1021,Economic
+140246,1026,Negotiation
+140247,1021,Economic
+140247,1026,Negotiation
+140271,1032,Action / Dexterity
+140271,1002,Card Game
+140275,1002,Card Game
+140277,1017,Dice
+140279,1009,Abstract Strategy
+140279,1093,Novel-based
+140280,1041,Children's Game
+140280,1017,Dice
+140280,1094,Educational
+140280,1031,Racing
+140280,1097,Travel
+140288,1002,Card Game
+140288,1120,Print & Play
+140306,1041,Children's Game
+140306,1094,Educational
+140309,1023,Bluffing
+140309,1002,Card Game
+140309,1039,Deduction
+140309,1035,Medieval
+140309,1120,Print & Play
+140312,1120,Print & Play
+140312,1016,Science Fiction
+140312,1101,Video Game Theme
+140314,1002,Card Game
+140314,1046,Fighting
+140314,1047,Miniatures
+140314,1082,Mythology
+140314,1019,Wargame
+140315,1021,Economic
+140315,1064,Movies / TV / Radio theme
+140315,1054,Music
+140315,1026,Negotiation
+140317,1021,Economic
+140317,1064,Movies / TV / Radio theme
+140317,1026,Negotiation
+140341,1002,Card Game
+140341,1017,Dice
+140341,1046,Fighting
+140343,1032,Action / Dexterity
+140343,1024,Horror
+140343,1070,Renaissance
+140343,2481,Zombies
+140344,1041,Children's Game
+140344,1017,Dice
+140345,1038,Sports
+140357,1041,Children's Game
+140357,1017,Dice
+140357,1031,Racing
+140357,1038,Sports
+140358,1039,Deduction
+140358,1120,Print & Play
+140381,1011,Transportation
+140381,1097,Travel
+140382,1041,Children's Game
+140386,1101,Video Game Theme
+140390,1045,Memory
+140395,1032,Action / Dexterity
+140395,1025,Word Game
+140410,1002,Card Game
+140410,1079,Humor
+140410,1030,Party Game
+140418,1045,Memory
+140420,1041,Children's Game
+140422,1072,Electronic
+140422,1030,Party Game
+140422,1027,Trivia
+140423,1002,Card Game
+140423,1046,Fighting
+140423,1079,Humor
+140423,1069,Modern Warfare
+140437,1002,Card Game
+140437,1120,Print & Play
+140450,1009,Abstract Strategy
+140450,1017,Dice
+140450,1010,Fantasy
+140455,1120,Print & Play
+140455,1101,Video Game Theme
+140457,1039,Deduction
+140457,1024,Horror
+140457,1040,Murder/Mystery
+140458,1069,Modern Warfare
+140462,1025,Word Game
+140465,1009,Abstract Strategy
+140465,1023,Bluffing
+140465,1120,Print & Play
+140465,1019,Wargame
+140466,1009,Abstract Strategy
+140466,1120,Print & Play
+140467,1002,Card Game
+140467,1039,Deduction
+140467,1079,Humor
+140467,1064,Movies / TV / Radio theme
+140467,1026,Negotiation
+140467,1120,Print & Play
+140467,1016,Science Fiction
+140467,1081,Spies/Secret Agents
+140468,1089,Animals
+140468,1002,Card Game
+140468,1079,Humor
+140469,1032,Action / Dexterity
+140469,1047,Miniatures
+140469,1030,Party Game
+140469,1038,Sports
+140477,1009,Abstract Strategy
+140478,1002,Card Game
+140479,1089,Animals
+140479,1023,Bluffing
+140479,1002,Card Game
+140480,1002,Card Game
+140490,1002,Card Game
+140490,1016,Science Fiction
+140490,1019,Wargame
+140500,1041,Children's Game
+140500,1064,Movies / TV / Radio theme
+140501,1049,World War II
+140503,1032,Action / Dexterity
+140503,1041,Children's Game
+140503,1116,Comic Book / Strip
+140503,1094,Educational
+140503,1025,Word Game
+140509,1002,Card Game
+140509,1041,Children's Game
+140509,1064,Movies / TV / Radio theme
+140510,1009,Abstract Strategy
+140510,1017,Dice
+140512,1041,Children's Game
+140512,1030,Party Game
+140512,1038,Sports
+140516,1069,Modern Warfare
+140517,1001,Political
+140519,1022,Adventure
+140519,1010,Fantasy
+140519,1047,Miniatures
+140524,1022,Adventure
+140524,1016,Science Fiction
+140532,1020,Exploration
+140532,1024,Horror
+140532,1079,Humor
+140532,2481,Zombies
+140535,1002,Card Game
+140542,1023,Bluffing
+140542,1002,Card Game
+140542,1041,Children's Game
+140542,1030,Party Game
+140562,1032,Action / Dexterity
+140562,1041,Children's Game
+140562,1064,Movies / TV / Radio theme
+140572,1094,Educational
+140589,1017,Dice
+140589,1010,Fantasy
+140589,1120,Print & Play
+140590,1089,Animals
+140590,1041,Children's Game
+140590,1093,Novel-based
+140593,1069,Modern Warfare
+140593,1019,Wargame
+140594,1030,Party Game
+140594,1025,Word Game
+140599,1032,Action / Dexterity
+140600,1023,Bluffing
+140600,1002,Card Game
+140600,1039,Deduction
+140600,1046,Fighting
+140600,1008,Nautical
+140600,1090,Pirates
+140601,1020,Exploration
+140601,1008,Nautical
+140601,1090,Pirates
+140602,1039,Deduction
+140603,1023,Bluffing
+140603,1020,Exploration
+140603,1008,Nautical
+140603,1090,Pirates
+140603,1070,Renaissance
+140607,1002,Card Game
+140607,1079,Humor
+140607,1030,Party Game
+140607,1120,Print & Play
+140610,1002,Card Game
+140610,1010,Fantasy
+140610,1046,Fighting
+140610,1120,Print & Play
+140611,1002,Card Game
+140611,1044,Collectible Components
+140611,1030,Party Game
+140612,1022,Adventure
+140612,1017,Dice
+140612,1010,Fantasy
+140612,1064,Movies / TV / Radio theme
+140612,1093,Novel-based
+140613,1088,Industry / Manufacturing
+140613,2710,Post-Napoleonic
+140613,1011,Transportation
+140620,1055,American West
+140620,1020,Exploration
+140621,1010,Fantasy
+140621,1120,Print & Play
+140621,1016,Science Fiction
+140621,1019,Wargame
+140625,1002,Card Game
+140626,1069,Modern Warfare
+140626,1019,Wargame
+140627,1032,Action / Dexterity
+140627,1041,Children's Game
+140627,1079,Humor
+140627,1045,Memory
+140627,1030,Party Game
+140629,1019,Wargame
+140630,1016,Science Fiction
+140638,1024,Horror
+140638,1064,Movies / TV / Radio theme
+140638,2481,Zombies
+140650,1025,Word Game
+140664,1032,Action / Dexterity
+140664,1079,Humor
+140665,1021,Economic
+140665,1064,Movies / TV / Radio theme
+140667,1017,Dice
+140667,1104,Math
+140670,1021,Economic
+140670,1035,Medieval
+140670,1120,Print & Play
+140673,1002,Card Game
+140673,1041,Children's Game
+140674,1002,Card Game
+140674,1010,Fantasy
+140675,1041,Children's Game
+140675,1064,Movies / TV / Radio theme
+140676,1094,Educational
+140676,1097,Travel
+140677,1041,Children's Game
+140677,1064,Movies / TV / Radio theme
+140679,1002,Card Game
+140679,1020,Exploration
+140679,1079,Humor
+140679,1059,Maze
+140679,1120,Print & Play
+140680,1051,Napoleonic
+140680,1120,Print & Play
+140680,1019,Wargame
+140682,1002,Card Game
+140682,1019,Wargame
+140682,1049,World War II
+140683,1002,Card Game
+140683,1094,Educational
+140683,1025,Word Game
+140684,1064,Movies / TV / Radio theme
+140684,1028,Puzzle
+140685,1089,Animals
+140685,1002,Card Game
+140685,1041,Children's Game
+140685,1064,Movies / TV / Radio theme
+140693,1023,Bluffing
+140693,1039,Deduction
+140693,1026,Negotiation
+140693,1030,Party Game
+140694,1089,Animals
+140694,1002,Card Game
+140694,1084,Environmental
+140699,1038,Sports
+140700,1021,Economic
+140700,1020,Exploration
+140700,1008,Nautical
+140700,1011,Transportation
+140702,1089,Animals
+140702,1041,Children's Game
+140709,1029,City Building
+140710,1041,Children's Game
+140710,1046,Fighting
+140710,1064,Movies / TV / Radio theme
+140711,1029,City Building
+140711,1035,Medieval
+140711,1086,Territory Building
+140713,1041,Children's Game
+140713,1116,Comic Book / Strip
+140714,1041,Children's Game
+140715,1041,Children's Game
+140717,1002,Card Game
+140717,1015,Civilization
+140722,1022,Adventure
+140722,1017,Dice
+140722,1008,Nautical
+140722,1090,Pirates
+140722,1120,Print & Play
+140723,1002,Card Game
+140723,1064,Movies / TV / Radio theme
+140723,1027,Trivia
+140725,1016,Science Fiction
+142434,1041,Children's Game
+142434,1045,Memory
+142437,1032,Action / Dexterity
+142437,1041,Children's Game
+142438,1017,Dice
+142438,1010,Fantasy
+142438,1120,Print & Play
+142445,2710,Post-Napoleonic
+142445,1019,Wargame
+142447,1002,Card Game
+142447,1046,Fighting
+142448,1009,Abstract Strategy
+142451,1021,Economic
+142451,1008,Nautical
+142451,1011,Transportation
+142451,1097,Travel
+142480,1069,Modern Warfare
+142480,1019,Wargame
+142503,1023,Bluffing
+142503,1002,Card Game
+142503,1039,Deduction
+142503,1026,Negotiation
+142503,1030,Party Game
+142508,1002,Card Game
+142508,1021,Economic
+142508,1013,Farming
+142508,1120,Print & Play
+142510,1041,Children's Game
+142510,1017,Dice
+142511,1094,Educational
+142511,1001,Political
+142511,1115,Religious
+142517,1017,Dice
+142517,1037,Real-time
+142518,1009,Abstract Strategy
+142518,1019,Wargame
+142519,1009,Abstract Strategy
+142519,1010,Fantasy
+142519,1028,Puzzle
+142520,1025,Word Game
+142522,1089,Animals
+142522,1041,Children's Game
+142523,1022,Adventure
+142523,1094,Educational
+142524,1041,Children's Game
+142528,1041,Children's Game
+142529,1047,Miniatures
+142529,1016,Science Fiction
+142529,1019,Wargame
+142530,1041,Children's Game
+142531,1017,Dice
+142532,1041,Children's Game
+142532,1025,Word Game
+142533,1115,Religious
+142533,1027,Trivia
+142534,2650,Aviation / Flight
+142534,1120,Print & Play
+142534,1011,Transportation
+142535,1002,Card Game
+142537,1032,Action / Dexterity
+142537,1089,Animals
+142537,1030,Party Game
+142551,1010,Fantasy
+142551,1046,Fighting
+142553,1047,Miniatures
+142553,1016,Science Fiction
+142553,1019,Wargame
+142554,1022,Adventure
+142555,1002,Card Game
+142555,1010,Fantasy
+142555,1064,Movies / TV / Radio theme
+142555,1093,Novel-based
+142556,1017,Dice
+142557,1017,Dice
+142558,1017,Dice
+142561,1030,Party Game
+142576,1032,Action / Dexterity
+142576,1030,Party Game
+142582,1038,Sports
+142583,1038,Sports
+142584,1022,Adventure
+142584,1002,Card Game
+142584,1093,Novel-based
+142586,1020,Exploration
+142586,1093,Novel-based
+142587,1009,Abstract Strategy
+142587,1081,Spies/Secret Agents
+142595,1021,Economic
+142601,1025,Word Game
+142604,1002,Card Game
+142604,1010,Fantasy
+142604,1079,Humor
+142604,1101,Video Game Theme
+142605,1094,Educational
+142605,1027,Trivia
+142611,1094,Educational
+142611,1030,Party Game
+142611,1027,Trivia
+142614,1009,Abstract Strategy
+142615,1002,Card Game
+142615,1045,Memory
+142615,1120,Print & Play
+142616,1089,Animals
+142616,1041,Children's Game
+142616,1031,Racing
+142619,1022,Adventure
+142619,1002,Card Game
+142619,1116,Comic Book / Strip
+142619,1046,Fighting
+142630,1038,Sports
+142638,1002,Card Game
+142638,1020,Exploration
+142638,1024,Horror
+142638,1090,Pirates
+142643,1017,Dice
+142644,1054,Music
+142645,1002,Card Game
+142645,1010,Fantasy
+142645,1079,Humor
+142652,1009,Abstract Strategy
+142652,1120,Print & Play
+142653,1002,Card Game
+142654,1009,Abstract Strategy
+142677,1069,Modern Warfare
+142677,1001,Political
+142682,1002,Card Game
+142682,1030,Party Game
+142682,1031,Racing
+142684,1001,Political
+142687,1002,Card Game
+142687,1010,Fantasy
+142688,1035,Medieval
+142689,1089,Animals
+142689,1002,Card Game
+142689,1041,Children's Game
+142689,1094,Educational
+142689,1027,Trivia
+142690,1120,Print & Play
+142691,1017,Dice
+142691,1072,Electronic
+142691,1037,Real-time
+142694,1009,Abstract Strategy
+142703,1002,Card Game
+142704,1030,Party Game
+142704,1025,Word Game
+142706,1030,Party Game
+142706,1027,Trivia
+142706,1025,Word Game
+142726,1054,Music
+142736,1079,Humor
+142736,1064,Movies / TV / Radio theme
+142736,1030,Party Game
+142737,1009,Abstract Strategy
+142740,1050,Ancient
+142746,1023,Bluffing
+142746,1002,Card Game
+142746,1017,Dice
+142746,1024,Horror
+142746,1082,Mythology
+142747,1117,Book
+142747,1010,Fantasy
+142747,1047,Miniatures
+142747,1019,Wargame
+142749,1089,Animals
+142749,1117,Book
+142749,1046,Fighting
+142749,1047,Miniatures
+142756,1041,Children's Game
+142758,1002,Card Game
+142765,1032,Action / Dexterity
+142765,1023,Bluffing
+142765,1002,Card Game
+142765,1026,Negotiation
+142765,1030,Party Game
+142773,1002,Card Game
+142773,1116,Comic Book / Strip
+142773,1010,Fantasy
+142773,1026,Negotiation
+142774,1002,Card Game
+142781,1017,Dice
+142781,1031,Racing
+142789,1002,Card Game
+142789,1079,Humor
+142789,1030,Party Game
+142789,1120,Print & Play
+142794,1002,Card Game
+142796,1016,Science Fiction
+142820,1002,Card Game
+142820,1041,Children's Game
+142820,1039,Deduction
+142829,1032,Action / Dexterity
+142829,1016,Science Fiction
+142830,1022,Adventure
+142830,1023,Bluffing
+142830,1039,Deduction
+142830,1020,Exploration
+142830,1046,Fighting
+142830,1016,Science Fiction
+142831,1009,Abstract Strategy
+142851,1032,Action / Dexterity
+142851,1041,Children's Game
+142851,1094,Educational
+142851,1025,Word Game
+142852,1002,Card Game
+142852,1116,Comic Book / Strip
+142854,2145,Medical
+142854,1028,Puzzle
+142859,1079,Humor
+142859,1054,Music
+142859,1030,Party Game
+142868,1089,Animals
+142871,1002,Card Game
+142871,1021,Economic
+142871,1001,Political
+142871,1016,Science Fiction
+142871,1113,Space Exploration
+142871,1065,World War I
+142878,1041,Children's Game
+142887,1041,Children's Game
+142887,1094,Educational
+142887,1027,Trivia
+142888,1041,Children's Game
+142888,1094,Educational
+142889,2650,Aviation / Flight
+142889,1019,Wargame
+142889,1049,World War II
+142901,1046,Fighting
+142901,1069,Modern Warfare
+142902,1009,Abstract Strategy
+142902,1023,Bluffing
+142902,1120,Print & Play
+142903,1021,Economic
+142903,1020,Exploration
+142903,1036,Prehistoric
+142924,2650,Aviation / Flight
+142924,1023,Bluffing
+142924,1039,Deduction
+142928,1028,Puzzle
+142933,1002,Card Game
+142946,1002,Card Game
+142946,1120,Print & Play
+142959,1002,Card Game
+142959,1010,Fantasy
+142961,1002,Card Game
+142961,1010,Fantasy
+142961,1016,Science Fiction
+142963,1022,Adventure
+142963,1002,Card Game
+142965,1002,Card Game
+142965,1116,Comic Book / Strip
+142965,1010,Fantasy
+142965,1046,Fighting
+142966,1089,Animals
+142966,1094,Educational
+142966,1084,Environmental
+142971,1032,Action / Dexterity
+142971,1041,Children's Game
+142980,1009,Abstract Strategy
+142981,1102,Civil War
+142981,1069,Modern Warfare
+142981,1019,Wargame
+142988,1017,Dice
+142988,1016,Science Fiction
+142992,1002,Card Game
+142992,1016,Science Fiction
+142996,1069,Modern Warfare
+142996,1019,Wargame
+142998,1002,Card Game
+142998,1016,Science Fiction
+143002,1002,Card Game
+143009,1002,Card Game
+143009,1010,Fantasy
+143009,1120,Print & Play
+143018,1010,Fantasy
+143018,1047,Miniatures
+143018,1120,Print & Play
+143018,1019,Wargame
+143023,1050,Ancient
+143023,1019,Wargame
+143032,1021,Economic
+143032,1094,Educational
+143032,1001,Political
+143034,1019,Wargame
+143034,1049,World War II
+143038,1009,Abstract Strategy
+143040,1117,Book
+143040,1010,Fantasy
+143040,1047,Miniatures
+143040,1019,Wargame
+143048,1008,Nautical
+143048,1019,Wargame
+143048,1065,World War I
+143050,2650,Aviation / Flight
+143050,1019,Wargame
+143050,1049,World War II
+143051,1049,World War II
+143062,1016,Science Fiction
+143070,1032,Action / Dexterity
+143070,1017,Dice
+143070,1104,Math
+143070,1030,Party Game
+143070,1037,Real-time
+143073,1002,Card Game
+143075,1032,Action / Dexterity
+143075,1017,Dice
+143075,1038,Sports
+143076,1019,Wargame
+143077,1009,Abstract Strategy
+143084,1023,Bluffing
+143084,1016,Science Fiction
+143085,1050,Ancient
+143085,1015,Civilization
+143085,1017,Dice
+143085,1120,Print & Play
+143086,1017,Dice
+143086,1010,Fantasy
+143086,1035,Medieval
+143086,1086,Territory Building
+143090,1002,Card Game
+143090,1041,Children's Game
+143090,1094,Educational
+143090,1079,Humor
+143090,1104,Math
+143090,1064,Movies / TV / Radio theme
+143091,1009,Abstract Strategy
+143091,1002,Card Game
+143091,1094,Educational
+143091,1104,Math
+143096,1046,Fighting
+143096,1024,Horror
+143096,1079,Humor
+143096,1118,Mature / Adult
+143097,1002,Card Game
+143097,1118,Mature / Adult
+143099,1021,Economic
+143099,1084,Environmental
+143099,1088,Industry / Manufacturing
+143105,1002,Card Game
+143105,1029,City Building
+143105,1016,Science Fiction
+143106,1002,Card Game
+143115,1024,Horror
+143115,1120,Print & Play
+143115,2481,Zombies
+143131,1009,Abstract Strategy
+143131,1120,Print & Play
+143132,1041,Children's Game
+143132,1045,Memory
+143135,1009,Abstract Strategy
+143135,1017,Dice
+143135,1094,Educational
+143136,1023,Bluffing
+143136,1017,Dice
+143136,1024,Horror
+143136,1037,Real-time
+143137,1008,Nautical
+143137,1031,Racing
+143137,1038,Sports
+143143,1094,Educational
+143143,1104,Math
+143144,1032,Action / Dexterity
+143144,1041,Children's Game
+143145,1069,Modern Warfare
+143145,1019,Wargame
+143146,1079,Humor
+143146,1120,Print & Play
+143147,1023,Bluffing
+143147,1002,Card Game
+143147,1020,Exploration
+143147,1010,Fantasy
+143147,1030,Party Game
+143156,2650,Aviation / Flight
+143156,1041,Children's Game
+143156,1017,Dice
+143156,1094,Educational
+143156,1031,Racing
+143156,1097,Travel
+143157,1002,Card Game
+143158,2650,Aviation / Flight
+143158,1017,Dice
+143159,1019,Wargame
+143159,1049,World War II
+143160,1050,Ancient
+143160,1015,Civilization
+143160,1086,Territory Building
+143165,1041,Children's Game
+143165,1064,Movies / TV / Radio theme
+143174,2650,Aviation / Flight
+143175,1002,Card Game
+143175,1021,Economic
+143176,1088,Industry / Manufacturing
+143176,1016,Science Fiction
+143177,2650,Aviation / Flight
+143180,1002,Card Game
+143184,1117,Book
+143184,1020,Exploration
+143184,1047,Miniatures
+143184,1019,Wargame
+143185,1002,Card Game
+143185,1010,Fantasy
+143185,1024,Horror
+143185,1079,Humor
+143185,1082,Mythology
+143186,1030,Party Game
+143186,1025,Word Game
+143187,1030,Party Game
+143187,1025,Word Game
+143195,1002,Card Game
+143195,1020,Exploration
+143195,1010,Fantasy
+143195,1120,Print & Play
+143197,1024,Horror
+143197,1064,Movies / TV / Radio theme
+143197,2481,Zombies
+143199,1017,Dice
+143199,1038,Sports
+143200,1032,Action / Dexterity
+143200,1002,Card Game
+143200,1030,Party Game
+143212,1038,Sports
+143214,1002,Card Game
+143214,1010,Fantasy
+143214,1086,Territory Building
+143217,1002,Card Game
+143219,1002,Card Game
+143219,1064,Movies / TV / Radio theme
+143238,1002,Card Game
+143238,1016,Science Fiction
+143238,1019,Wargame
+143246,1009,Abstract Strategy
+143246,1079,Humor
+143246,1118,Mature / Adult
+143246,1030,Party Game
+143250,1046,Fighting
+143250,1035,Medieval
+143250,1082,Mythology
+143254,1020,Exploration
+143254,1013,Farming
+143254,1016,Science Fiction
+143254,1113,Space Exploration
+143254,1086,Territory Building
+143254,1011,Transportation
+143255,1002,Card Game
+143255,1010,Fantasy
+143255,1079,Humor
+143255,2481,Zombies
+143266,1041,Children's Game
+143266,1094,Educational
+143269,1032,Action / Dexterity
+143269,1025,Word Game
+143282,1022,Adventure
+143283,1031,Racing
+143283,1038,Sports
+143284,1034,Trains
+143285,1019,Wargame
+143286,1032,Action / Dexterity
+143286,1041,Children's Game
+143286,1116,Comic Book / Strip
+143286,1037,Real-time
+143287,1010,Fantasy
+143287,1046,Fighting
+143293,1002,Card Game
+143294,1009,Abstract Strategy
+143295,1017,Dice
+143296,1009,Abstract Strategy
+143297,1009,Abstract Strategy
+143298,1009,Abstract Strategy
+143299,1009,Abstract Strategy
+143300,1031,Racing
+143301,1009,Abstract Strategy
+143302,1009,Abstract Strategy
+143303,1009,Abstract Strategy
+143304,1009,Abstract Strategy
+143305,1009,Abstract Strategy
+143307,1009,Abstract Strategy
+143310,1023,Bluffing
+143310,1016,Science Fiction
+143312,1002,Card Game
+143312,1041,Children's Game
+143312,1094,Educational
+143312,1037,Real-time
+143322,1022,Adventure
+143323,1002,Card Game
+143324,1041,Children's Game
+143324,1094,Educational
+143324,1028,Puzzle
+143324,1027,Trivia
+143343,1041,Children's Game
+143343,1017,Dice
+143343,1031,Racing
+143344,1041,Children's Game
+143344,1017,Dice
+143344,1031,Racing
+143345,1089,Animals
+143345,1041,Children's Game
+143345,1094,Educational
+143345,1097,Travel
+143347,1050,Ancient
+143347,1015,Civilization
+143347,1021,Economic
+143347,1026,Negotiation
+143352,1009,Abstract Strategy
+143355,1009,Abstract Strategy
+143359,1017,Dice
+143360,2710,Post-Napoleonic
+143360,1019,Wargame
+143370,1017,Dice
+143370,1019,Wargame
+143378,1035,Medieval
+143378,1086,Territory Building
+143378,1019,Wargame
+143384,1019,Wargame
+143387,1009,Abstract Strategy
+143389,1009,Abstract Strategy
+143391,1009,Abstract Strategy
+143392,1009,Abstract Strategy
+143394,1009,Abstract Strategy
+143396,1009,Abstract Strategy
+143401,1050,Ancient
+143401,1021,Economic
+143401,1011,Transportation
+143403,1039,Deduction
+143403,1040,Murder/Mystery
+143404,1010,Fantasy
+143404,1028,Puzzle
+143405,1089,Animals
+143405,1002,Card Game
+143405,1084,Environmental
+143405,1010,Fantasy
+143416,1002,Card Game
+143416,1093,Novel-based
+143421,2710,Post-Napoleonic
+143421,1019,Wargame
+143423,1089,Animals
+143423,1041,Children's Game
+143423,1017,Dice
+143423,1084,Environmental
+143436,1009,Abstract Strategy
+143436,1002,Card Game
+143441,1019,Wargame
+143441,1049,World War II
+143446,1017,Dice
+143446,1079,Humor
+143447,1002,Card Game
+143447,1021,Economic
+143447,1013,Farming
+143447,1120,Print & Play
+143449,1017,Dice
+143449,1025,Word Game
+143450,1017,Dice
+143458,1010,Fantasy
+143458,1047,Miniatures
+143458,1064,Movies / TV / Radio theme
+143458,1093,Novel-based
+143459,1010,Fantasy
+143459,1047,Miniatures
+143459,1064,Movies / TV / Radio theme
+143459,1093,Novel-based
+143461,1041,Children's Game
+143461,1094,Educational
+143484,1029,City Building
+143484,1021,Economic
+143484,1070,Renaissance
+143487,1117,Book
+143487,1047,Miniatures
+143487,1016,Science Fiction
+143487,1019,Wargame
+143488,1027,Trivia
+143489,1094,Educational
+143489,1104,Math
+143489,1098,Number
+143493,1041,Children's Game
+143496,1041,Children's Game
+143497,1041,Children's Game
+143497,1031,Racing
+143498,1041,Children's Game
+143498,1094,Educational
+143499,1041,Children's Game
+143500,1089,Animals
+143500,1041,Children's Game
+143501,1041,Children's Game
+143501,1017,Dice
+143502,2650,Aviation / Flight
+143502,1041,Children's Game
+143502,1017,Dice
+143502,1031,Racing
+143502,1049,World War II
+143504,1041,Children's Game
+143504,1017,Dice
+143504,1094,Educational
+143504,1031,Racing
+143505,2726,Age of Reason
+143505,1015,Civilization
+143505,1020,Exploration
+143505,1026,Negotiation
+143505,2725,Pike and Shot
+143505,1120,Print & Play
+143505,1070,Renaissance
+143505,1019,Wargame
+143508,1064,Movies / TV / Radio theme
+143508,1093,Novel-based
+143508,1019,Wargame
+143508,2481,Zombies
+143509,1089,Animals
+143509,1023,Bluffing
+143509,1002,Card Game
+143514,1002,Card Game
+143514,1064,Movies / TV / Radio theme
+143514,2481,Zombies
+143515,1088,Industry / Manufacturing
+143515,1034,Trains
+143515,1011,Transportation
+143516,1002,Card Game
+143519,1017,Dice
+143519,1046,Fighting
+143519,1016,Science Fiction
+143519,1113,Space Exploration
+143520,1022,Adventure
+143520,1023,Bluffing
+143520,1010,Fantasy
+143520,1037,Real-time
+143521,1009,Abstract Strategy
+143521,1020,Exploration
+143521,1016,Science Fiction
+143521,1086,Territory Building
+143532,1022,Adventure
+143532,1002,Card Game
+143532,1017,Dice
+143532,1016,Science Fiction
+143532,1113,Space Exploration
+143537,1017,Dice
+143537,1120,Print & Play
+143537,1086,Territory Building
+143542,1009,Abstract Strategy
+143549,1016,Science Fiction
+143549,1019,Wargame
+143550,1041,Children's Game
+143550,1094,Educational
+143550,1037,Real-time
+143558,1009,Abstract Strategy
+143558,1002,Card Game
+143558,1098,Number
+143558,1120,Print & Play
+143559,1089,Animals
+143559,1041,Children's Game
+143559,1064,Movies / TV / Radio theme
+143560,1089,Animals
+143560,1002,Card Game
+143560,1094,Educational
+143560,1084,Environmental
+143561,1002,Card Game
+143561,1010,Fantasy
+143561,1046,Fighting
+143580,1023,Bluffing
+143580,1017,Dice
+143581,1022,Adventure
+143581,1120,Print & Play
+143581,1016,Science Fiction
+143581,1113,Space Exploration
+143581,1101,Video Game Theme
+143587,1002,Card Game
+143587,1030,Party Game
+143587,1120,Print & Play
+143588,1002,Card Game
+143588,1039,Deduction
+143588,1045,Memory
+143588,1081,Spies/Secret Agents
+143590,1041,Children's Game
+143596,1032,Action / Dexterity
+143596,1037,Real-time
+143604,1002,Card Game
+143604,1001,Political
+143604,1027,Trivia
+143618,1017,Dice
+143618,1120,Print & Play
+143618,1031,Racing
+143623,1039,Deduction
+143623,1040,Murder/Mystery
+143623,1030,Party Game
+143624,1049,World War II
+143625,1049,World War II
+143630,1002,Card Game
+143630,1041,Children's Game
+143630,1046,Fighting
+143630,1064,Movies / TV / Radio theme
+143636,1047,Miniatures
+143636,1016,Science Fiction
+143636,1019,Wargame
+143657,1050,Ancient
+143657,1001,Political
+143657,1086,Territory Building
+143660,1032,Action / Dexterity
+143660,1041,Children's Game
+143661,1055,American West
+143662,1021,Economic
+143662,1094,Educational
+143662,1042,Expansion for Base-game
+143663,1089,Animals
+143663,1010,Fantasy
+143664,1021,Economic
+143664,1008,Nautical
+143666,1002,Card Game
+143666,1010,Fantasy
+143670,1020,Exploration
+143670,1010,Fantasy
+143670,1040,Murder/Mystery
+143670,1120,Print & Play
+143671,1002,Card Game
+143671,1010,Fantasy
+143671,1082,Mythology
+143671,1120,Print & Play
+143674,1002,Card Game
+143674,1025,Word Game
+143675,1036,Prehistoric
+143676,1040,Murder/Mystery
+143677,1002,Card Game
+143677,1030,Party Game
+143680,1023,Bluffing
+143680,1002,Card Game
+143681,1079,Humor
+143681,1030,Party Game
+143687,1009,Abstract Strategy
+143691,1038,Sports
+143692,1010,Fantasy
+143692,1047,Miniatures
+143693,1029,City Building
+143693,1021,Economic
+143693,1088,Industry / Manufacturing
+143693,1035,Medieval
+143696,2650,Aviation / Flight
+143696,1041,Children's Game
+143696,1017,Dice
+143696,1094,Educational
+143696,1031,Racing
+143697,1094,Educational
+143697,1038,Sports
+143699,1002,Card Game
+143700,1002,Card Game
+143700,1041,Children's Game
+143701,1002,Card Game
+143701,1010,Fantasy
+143701,1046,Fighting
+143701,1064,Movies / TV / Radio theme
+143703,1009,Abstract Strategy
+143703,1016,Science Fiction
+143703,1019,Wargame
+143704,1064,Movies / TV / Radio theme
+143706,1010,Fantasy
+143706,1047,Miniatures
+143706,1101,Video Game Theme
+143707,1002,Card Game
+143707,1094,Educational
+143707,1115,Religious
+143708,1002,Card Game
+143709,1002,Card Game
+143710,1002,Card Game
+143710,1041,Children's Game
+143710,1094,Educational
+143711,1017,Dice
+143711,1024,Horror
+143711,1120,Print & Play
+143711,2481,Zombies
+143712,1047,Miniatures
+143712,1120,Print & Play
+143712,1016,Science Fiction
+143712,1019,Wargame
+143713,1002,Card Game
+143735,1022,Adventure
+143735,1017,Dice
+143737,1017,Dice
+143741,1055,American West
+143741,1023,Bluffing
+143741,1039,Deduction
+143741,1017,Dice
+143741,1046,Fighting
+143741,1030,Party Game
+143742,1002,Card Game
+143743,1094,Educational
+143743,1091,Korean War
+143743,1047,Miniatures
+143743,1019,Wargame
+143744,1041,Children's Game
+143744,1017,Dice
+143744,1030,Party Game
+143745,1019,Wargame
+143745,1049,World War II
+143746,1079,Humor
+143746,1030,Party Game
+143746,1025,Word Game
+143747,1019,Wargame
+143747,1065,World War I
+143751,1002,Card Game
+143752,1041,Children's Game
+143755,1009,Abstract Strategy
+143755,1010,Fantasy
+143755,1046,Fighting
+143755,1079,Humor
+143755,1047,Miniatures
+143755,1082,Mythology
+143755,1016,Science Fiction
+143755,1086,Territory Building
+143755,1019,Wargame
+143755,2481,Zombies
+143757,1002,Card Game
+143757,1001,Political
+143757,1027,Trivia
+143758,1002,Card Game
+143759,1032,Action / Dexterity
+143759,1041,Children's Game
+143759,1064,Movies / TV / Radio theme
+143761,1117,Book
+143761,1047,Miniatures
+143761,1016,Science Fiction
+143761,1019,Wargame
+143766,1002,Card Game
+143766,1025,Word Game
+143767,1009,Abstract Strategy
+143769,1009,Abstract Strategy
+143769,1019,Wargame
+143778,1028,Puzzle
+143778,1025,Word Game
+143780,1002,Card Game
+143780,1024,Horror
+143780,1030,Party Game
+143780,2481,Zombies
+143782,1021,Economic
+143782,1088,Industry / Manufacturing
+143790,1041,Children's Game
+143798,1002,Card Game
+143798,1029,City Building
+143799,1041,Children's Game
+143799,1064,Movies / TV / Radio theme
+143830,1030,Party Game
+143830,1031,Racing
+143831,1032,Action / Dexterity
+143831,1041,Children's Game
+143831,1030,Party Game
+143832,1089,Animals
+143832,1094,Educational
+143832,1084,Environmental
+143838,1089,Animals
+143838,1041,Children's Game
+143838,1017,Dice
+143838,1093,Novel-based
+143838,1031,Racing
+143839,1048,American Civil War
+143839,1019,Wargame
+143840,1048,American Civil War
+143840,1019,Wargame
+143841,1051,Napoleonic
+143841,1019,Wargame
+143842,2710,Post-Napoleonic
+143842,1019,Wargame
+143843,1002,Card Game
+143843,1030,Party Game
+143843,1037,Real-time
+143844,1120,Print & Play
+143844,1113,Space Exploration
+143846,1002,Card Game
+143846,1010,Fantasy
+143847,1019,Wargame
+143847,1049,World War II
+143848,1069,Modern Warfare
+143848,1008,Nautical
+143848,1019,Wargame
+143849,1002,Card Game
+143852,1009,Abstract Strategy
+143855,1002,Card Game
+143866,1041,Children's Game
+143866,1090,Pirates
+143869,1030,Party Game
+143870,1041,Children's Game
+143882,1089,Animals
+143882,1002,Card Game
+143883,1046,Fighting
+143883,1064,Movies / TV / Radio theme
+143884,1029,City Building
+143884,1017,Dice
+143888,1002,Card Game
+143888,1030,Party Game
+143906,1023,Bluffing
+143906,1039,Deduction
+143906,1030,Party Game
+143926,1009,Abstract Strategy
+143928,1010,Fantasy
+143928,1046,Fighting
+143928,1035,Medieval
+143940,1002,Card Game
+143940,1030,Party Game
+143949,1094,Educational
+143949,1115,Religious
+143949,1027,Trivia
+143950,1022,Adventure
+143950,1021,Economic
+143950,1079,Humor
+143950,1008,Nautical
+143951,1094,Educational
+143951,1079,Humor
+143951,1115,Religious
+143951,1027,Trivia
+143951,1025,Word Game
+143952,1108,American Indian Wars
+143952,1055,American West
+143952,1029,City Building
+143952,1017,Dice
+143952,1021,Economic
+143952,1094,Educational
+143952,1026,Negotiation
+143952,1097,Travel
+143952,1019,Wargame
+143967,1002,Card Game
+143967,1041,Children's Game
+143981,1046,Fighting
+143981,1047,Miniatures
+143981,1016,Science Fiction
+143983,1002,Card Game
+143983,1039,Deduction
+143983,1079,Humor
+143983,1118,Mature / Adult
+143983,1030,Party Game
+143983,1120,Print & Play
+143985,1032,Action / Dexterity
+143985,1002,Card Game
+143985,1045,Memory
+143985,1037,Real-time
+143986,1002,Card Game
+143986,1017,Dice
+143986,1079,Humor
+143990,1009,Abstract Strategy
+143990,1120,Print & Play
+143994,1017,Dice
+143994,1033,Mafia
+144008,1021,Economic
+144008,1026,Negotiation
+144017,1069,Modern Warfare
+144017,1019,Wargame
+144036,1002,Card Game
+144036,1041,Children's Game
+144041,1023,Bluffing
+144041,1029,City Building
+144041,1015,Civilization
+144041,1021,Economic
+144041,1026,Negotiation
+144041,1001,Political
+144041,1086,Territory Building
+144045,1002,Card Game
+144045,1027,Trivia
+144047,1030,Party Game
+144047,1027,Trivia
+144048,1032,Action / Dexterity
+144048,1041,Children's Game
+144049,2650,Aviation / Flight
+144049,1097,Travel
+144066,1002,Card Game
+144066,1064,Movies / TV / Radio theme
+144066,1027,Trivia
+144071,1009,Abstract Strategy
+144073,1009,Abstract Strategy
+144075,1002,Card Game
+144075,1094,Educational
+144081,1009,Abstract Strategy
+144081,1002,Card Game
+144081,1119,Game System
+144081,1030,Party Game
+144090,1050,Ancient
+144090,1019,Wargame
+144091,1050,Ancient
+144091,1019,Wargame
+144093,1009,Abstract Strategy
+144093,1040,Murder/Mystery
+144108,1023,Bluffing
+144108,1002,Card Game
+144108,1015,Civilization
+144108,1026,Negotiation
+144108,1001,Political
+144110,1021,Economic
+144110,1026,Negotiation
+144113,1023,Bluffing
+144113,1002,Card Game
+144113,1039,Deduction
+144113,1033,Mafia
+144113,1081,Spies/Secret Agents
+144122,2726,Age of Reason
+144122,1075,American Revolutionary War
+144122,1019,Wargame
+144131,1002,Card Game
+144131,1046,Fighting
+144131,1079,Humor
+144131,1035,Medieval
+144131,1082,Mythology
+144135,1050,Ancient
+144135,1019,Wargame
+144140,1009,Abstract Strategy
+144140,1029,City Building
+144140,1015,Civilization
+144140,1010,Fantasy
+144140,1013,Farming
+144140,1035,Medieval
+144140,1086,Territory Building
+144147,1055,American West
+144147,1017,Dice
+144147,1079,Humor
+144150,1039,Deduction
+144150,1035,Medieval
+144150,1045,Memory
+144150,1019,Wargame
+144163,1047,Miniatures
+144163,1109,Vietnam War
+144163,1019,Wargame
+144163,1049,World War II
+144164,1032,Action / Dexterity
+144170,1027,Trivia
+144170,1101,Video Game Theme
+144172,1038,Sports
+144176,1001,Political
+144182,1009,Abstract Strategy
+144183,1030,Party Game
+144183,1038,Sports
+144183,1027,Trivia
+144184,1002,Card Game
+144184,1010,Fantasy
+144189,1102,Civil War
+144189,1069,Modern Warfare
+144189,1001,Political
+144189,1109,Vietnam War
+144189,1019,Wargame
+144204,1002,Card Game
+144204,1104,Math
+144207,1089,Animals
+144207,1002,Card Game
+144207,1041,Children's Game
+144207,1094,Educational
+144208,1032,Action / Dexterity
+144208,1030,Party Game
+144209,1117,Book
+144209,1035,Medieval
+144209,1047,Miniatures
+144209,1019,Wargame
+144222,1094,Educational
+144222,1064,Movies / TV / Radio theme
+144223,1032,Action / Dexterity
+144223,1022,Adventure
+144226,1009,Abstract Strategy
+144228,1038,Sports
+144229,1094,Educational
+144229,1027,Trivia
+144230,1009,Abstract Strategy
+144235,1041,Children's Game
+144235,1094,Educational
+144235,1027,Trivia
+144236,1094,Educational
+144236,1016,Science Fiction
+144239,1023,Bluffing
+144239,1002,Card Game
+144239,1021,Economic
+144239,1046,Fighting
+144239,1016,Science Fiction
+144239,1113,Space Exploration
+144242,1028,Puzzle
+144246,1041,Children's Game
+144246,1116,Comic Book / Strip
+144252,1038,Sports
+144253,1016,Science Fiction
+144253,1019,Wargame
+144253,1049,World War II
+144257,1002,Card Game
+144257,1041,Children's Game
+144260,1079,Humor
+144270,1020,Exploration
+144285,1002,Card Game
+144290,1010,Fantasy
+144293,1008,Nautical
+144301,1002,Card Game
+144301,1044,Collectible Components
+144303,1021,Economic
+144303,1026,Negotiation
+144305,1002,Card Game
+144305,1025,Word Game
+144310,1022,Adventure
+144310,1050,Ancient
+144310,1020,Exploration
+144312,1016,Science Fiction
+144315,1046,Fighting
+144316,1021,Economic
+144316,1016,Science Fiction
+144316,1113,Space Exploration
+144317,1022,Adventure
+144319,1002,Card Game
+144319,1064,Movies / TV / Radio theme
+144320,1002,Card Game
+144320,1041,Children's Game
+144320,1094,Educational
+144321,1041,Children's Game
+144321,1079,Humor
+144325,1050,Ancient
+144325,1002,Card Game
+144325,1010,Fantasy
+144325,1079,Humor
+144325,1082,Mythology
+144326,1094,Educational
+144333,1023,Bluffing
+144333,1039,Deduction
+144333,1030,Party Game
+144334,1104,Math
+144335,1016,Science Fiction
+144336,1041,Children's Game
+144336,1064,Movies / TV / Radio theme
+144337,1101,Video Game Theme
+144339,1002,Card Game
+144339,1017,Dice
+144339,1010,Fantasy
+144339,1035,Medieval
+144341,1089,Animals
+144341,1041,Children's Game
+144341,1017,Dice
+144342,1009,Abstract Strategy
+144344,2726,Age of Reason
+144344,1021,Economic
+144346,1023,Bluffing
+144346,1088,Industry / Manufacturing
+144346,1028,Puzzle
+144350,1002,Card Game
+144350,1093,Novel-based
+144352,1047,Miniatures
+144352,1019,Wargame
+144352,1049,World War II
+144374,1094,Educational
+144375,1016,Science Fiction
+144375,1113,Space Exploration
+144378,1002,Card Game
+144378,1079,Humor
+144378,1118,Mature / Adult
+144378,1030,Party Game
+144379,1064,Movies / TV / Radio theme
+144382,1002,Card Game
+144382,1029,City Building
+144382,1070,Renaissance
+144383,1002,Card Game
+144383,1010,Fantasy
+144385,1041,Children's Game
+144385,1064,Movies / TV / Radio theme
+144387,1002,Card Game
+144387,1030,Party Game
+144388,1002,Card Game
+144388,1120,Print & Play
+144390,1009,Abstract Strategy
+144390,1086,Territory Building
+144392,1002,Card Game
+144402,1009,Abstract Strategy
+144402,1031,Racing
+144403,1009,Abstract Strategy
+144403,1031,Racing
+144411,1010,Fantasy
+144412,1116,Comic Book / Strip
+144412,1033,Mafia
+144412,1040,Murder/Mystery
+144412,1081,Spies/Secret Agents
+144413,1002,Card Game
+144413,1030,Party Game
+144414,1089,Animals
+144414,1041,Children's Game
+144415,1021,Economic
+144415,1008,Nautical
+144415,1011,Transportation
+144416,1037,Real-time
+144417,1002,Card Game
+144417,1010,Fantasy
+144417,1064,Movies / TV / Radio theme
+144417,1093,Novel-based
+144420,1002,Card Game
+144420,1116,Comic Book / Strip
+144420,1030,Party Game
+144425,1002,Card Game
+144428,1051,Napoleonic
+144428,1019,Wargame
+144429,1002,Card Game
+144429,1010,Fantasy
+144434,1002,Card Game
+144435,1032,Action / Dexterity
+144435,1038,Sports
+144440,1030,Party Game
+144440,1027,Trivia
+144442,1002,Card Game
+144445,1118,Mature / Adult
+144445,1030,Party Game
+144447,1002,Card Game
+144447,1044,Collectible Components
+144447,1079,Humor
+144448,1115,Religious
+144448,1025,Word Game
+144450,1002,Card Game
+144450,1037,Real-time
+144453,1038,Sports
+144454,1089,Animals
+144454,1002,Card Game
+144460,1031,Racing
+144460,1038,Sports
+144461,1009,Abstract Strategy
+144462,1002,Card Game
+144462,1010,Fantasy
+144462,1093,Novel-based
+144462,1120,Print & Play
+144464,1023,Bluffing
+144464,1002,Card Game
+144464,1039,Deduction
+144464,1024,Horror
+144464,1040,Murder/Mystery
+144464,1026,Negotiation
+144464,1030,Party Game
+144467,1120,Print & Play
+144467,1049,World War II
+144468,1032,Action / Dexterity
+144468,1002,Card Game
+144468,1041,Children's Game
+144468,1030,Party Game
+144471,1022,Adventure
+144471,1023,Bluffing
+144471,1002,Card Game
+144471,1017,Dice
+144471,1021,Economic
+144471,1010,Fantasy
+144471,1035,Medieval
+144471,1090,Pirates
+144472,1019,Wargame
+144472,1049,World War II
+144474,1051,Napoleonic
+144474,1019,Wargame
+144479,1002,Card Game
+144479,1010,Fantasy
+144479,1046,Fighting
+144479,1082,Mythology
+144486,1079,Humor
+144486,1045,Memory
+144492,1088,Industry / Manufacturing
+144495,1117,Book
+144495,1047,Miniatures
+144495,1120,Print & Play
+144495,1016,Science Fiction
+144495,1019,Wargame
+144499,1052,Arabian
+144499,1002,Card Game
+144499,1017,Dice
+144503,1002,Card Game
+144503,1010,Fantasy
+144505,1009,Abstract Strategy
+144506,1039,Deduction
+144506,1030,Party Game
+144506,1025,Word Game
+144507,1010,Fantasy
+144507,1046,Fighting
+144507,1047,Miniatures
+144515,1041,Children's Game
+144517,1025,Word Game
+144518,1094,Educational
+144521,1116,Comic Book / Strip
+144521,1039,Deduction
+144521,1120,Print & Play
+144525,1002,Card Game
+144525,1020,Exploration
+144525,1010,Fantasy
+144525,1046,Fighting
+144525,1059,Maze
+144526,1002,Card Game
+144526,1010,Fantasy
+144529,1046,Fighting
+144529,1016,Science Fiction
+144532,1002,Card Game
+144532,1008,Nautical
+144532,1019,Wargame
+144532,1049,World War II
+144533,1017,Dice
+144533,1035,Medieval
+144533,1019,Wargame
+144536,1030,Party Game
+144538,1019,Wargame
+144538,1049,World War II
+144543,1019,Wargame
+144543,1049,World War II
+144553,1002,Card Game
+144553,1029,City Building
+144553,1035,Medieval
+144555,1050,Ancient
+144555,1117,Book
+144555,1015,Civilization
+144555,1017,Dice
+144555,1020,Exploration
+144555,1010,Fantasy
+144555,1013,Farming
+144555,1035,Medieval
+144555,1047,Miniatures
+144555,1082,Mythology
+144555,1120,Print & Play
+144555,1115,Religious
+144555,1086,Territory Building
+144555,1019,Wargame
+144556,1019,Wargame
+144557,1023,Bluffing
+144557,1002,Card Game
+144557,1039,Deduction
+144557,1093,Novel-based
+144557,1070,Renaissance
+144565,1041,Children's Game
+144566,1021,Economic
+144566,1034,Trains
+144567,1010,Fantasy
+144567,1035,Medieval
+144568,1024,Horror
+144568,2481,Zombies
+144569,1002,Card Game
+144569,1120,Print & Play
+144572,1019,Wargame
+144572,1049,World War II
+144573,1041,Children's Game
+144574,1048,American Civil War
+144574,1019,Wargame
+144575,1039,Deduction
+144575,1045,Memory
+144575,1019,Wargame
+144577,1002,Card Game
+144578,1017,Dice
+144578,1027,Trivia
+144579,1041,Children's Game
+144579,1017,Dice
+144580,1009,Abstract Strategy
+144580,1028,Puzzle
+144581,1002,Card Game
+144581,1041,Children's Game
+144581,1093,Novel-based
+144582,1019,Wargame
+144582,1049,World War II
+144583,1019,Wargame
+144583,1049,World War II
+144585,1020,Exploration
+144585,1079,Humor
+144587,1009,Abstract Strategy
+144587,1055,American West
+144587,1021,Economic
+144587,1088,Industry / Manufacturing
+144588,1041,Children's Game
+144588,1028,Puzzle
+144588,1037,Real-time
+144590,1002,Card Game
+144590,1010,Fantasy
+144590,1046,Fighting
+144590,1101,Video Game Theme
+144592,1021,Economic
+144593,1002,Card Game
+144593,1041,Children's Game
+144593,1094,Educational
+144593,1037,Real-time
+144600,1046,Fighting
+144600,1101,Video Game Theme
+144603,1001,Political
+144603,1016,Science Fiction
+144603,1113,Space Exploration
+144607,1019,Wargame
+144607,1049,World War II
+144613,1041,Children's Game
+144613,1094,Educational
+144613,1097,Travel
+144627,1019,Wargame
+144627,1049,World War II
+144631,1023,Bluffing
+144632,1029,City Building
+144632,1026,Negotiation
+144632,1001,Political
+144639,1032,Action / Dexterity
+144643,1002,Card Game
+144662,1002,Card Game
+144662,1017,Dice
+144662,1010,Fantasy
+144662,1016,Science Fiction
+144662,1019,Wargame
+144664,1041,Children's Game
+144664,1094,Educational
+144664,1028,Puzzle
+144665,1019,Wargame
+144665,1049,World War II
+144666,1019,Wargame
+144666,1049,World War II
+144670,1019,Wargame
+144670,1049,World War II
+144677,1019,Wargame
+144677,1049,World War II
+144678,1118,Mature / Adult
+144678,1030,Party Game
+144679,1021,Economic
+144680,1094,Educational
+144685,1017,Dice
+144685,1088,Industry / Manufacturing
+144685,1120,Print & Play
+144685,1016,Science Fiction
+144697,1009,Abstract Strategy
+144697,1038,Sports
+144704,1002,Card Game
+144704,1079,Humor
+144704,1031,Racing
+144708,1017,Dice
+144709,1037,Real-time
+144721,1009,Abstract Strategy
+144725,1009,Abstract Strategy
+144725,1029,City Building
+144728,1002,Card Game
+144728,1079,Humor
+144728,1064,Movies / TV / Radio theme
+144729,1023,Bluffing
+144729,1002,Card Game
+144729,1039,Deduction
+144729,1010,Fantasy
+144729,1079,Humor
+144729,1040,Murder/Mystery
+144729,1093,Novel-based
+144729,1030,Party Game
+144731,1117,Book
+144732,1002,Card Game
+144732,1016,Science Fiction
+144732,1113,Space Exploration
+144733,1088,Industry / Manufacturing
+144733,1034,Trains
+144734,1116,Comic Book / Strip
+144734,1010,Fantasy
+144735,1008,Nautical
+144735,1019,Wargame
+144735,1049,World War II
+144736,1002,Card Game
+144737,1002,Card Game
+144739,1009,Abstract Strategy
+144743,1022,Adventure
+144743,1017,Dice
+144743,1020,Exploration
+144743,1010,Fantasy
+144743,1046,Fighting
+144743,1024,Horror
+144743,1082,Mythology
+144743,1016,Science Fiction
+144745,1009,Abstract Strategy
+144761,1032,Action / Dexterity
+144761,1030,Party Game
+144761,1037,Real-time
+144764,1054,Music
+144767,1034,Trains
+144768,1023,Bluffing
+144768,1030,Party Game
+144770,1009,Abstract Strategy
+144771,1023,Bluffing
+144771,1030,Party Game
+144772,1072,Electronic
+144772,1010,Fantasy
+144775,1002,Card Game
+144775,1016,Science Fiction
+144778,1010,Fantasy
+144779,1097,Travel
+144781,1081,Spies/Secret Agents
+144782,1019,Wargame
+144782,1049,World War II
+144783,1009,Abstract Strategy
+144783,1086,Territory Building
+144784,1009,Abstract Strategy
+144789,1089,Animals
+144789,1017,Dice
+144789,1047,Miniatures
+144789,1031,Racing
+144789,1038,Sports
+144790,1017,Dice
+144790,1037,Real-time
+144796,1009,Abstract Strategy
+144796,1016,Science Fiction
+144797,1010,Fantasy
+144797,1001,Political
+144802,2725,Pike and Shot
+144802,1019,Wargame
+144803,1019,Wargame
+144806,1002,Card Game
+144806,1094,Educational
+144806,1028,Puzzle
+144807,1089,Animals
+144807,1041,Children's Game
+144807,1045,Memory
+144809,1002,Card Game
+144809,1069,Modern Warfare
+144809,1019,Wargame
+144810,1023,Bluffing
+144810,1017,Dice
+144810,1045,Memory
+144812,1002,Card Game
+144812,1090,Pirates
+144812,1120,Print & Play
+144815,1016,Science Fiction
+144826,1046,Fighting
+144826,1024,Horror
+144826,1037,Real-time
+144826,2481,Zombies
+144829,1120,Print & Play
+144829,1081,Spies/Secret Agents
+144829,1019,Wargame
+144829,1065,World War I
+144845,1022,Adventure
+144845,1010,Fantasy
+144845,1093,Novel-based
+144845,1019,Wargame
+144850,1022,Adventure
+144850,1020,Exploration
+144850,1010,Fantasy
+144850,1046,Fighting
+144850,1047,Miniatures
+144852,1069,Modern Warfare
+144852,1019,Wargame
+144857,1009,Abstract Strategy
+144858,1009,Abstract Strategy
+144859,1009,Abstract Strategy
+144860,1009,Abstract Strategy
+144861,1045,Memory
+144861,1120,Print & Play
+144861,1038,Sports
+144862,1002,Card Game
+144863,1047,Miniatures
+144863,1019,Wargame
+144863,1049,World War II
+144864,1002,Card Game
+144864,1010,Fantasy
+144865,1002,Card Game
+144874,1017,Dice
+144874,1021,Economic
+144874,1079,Humor
+144874,1118,Mature / Adult
+144874,1026,Negotiation
+144875,1113,Space Exploration
+144893,1002,Card Game
+144893,1044,Collectible Components
+144893,1010,Fantasy
+144893,1046,Fighting
+144893,1079,Humor
+144893,1069,Modern Warfare
+144893,1120,Print & Play
+144893,1016,Science Fiction
+144893,1019,Wargame
+144912,1009,Abstract Strategy
+144913,1009,Abstract Strategy
+144915,1016,Science Fiction
+144915,1019,Wargame
+144916,1010,Fantasy
+144916,1038,Sports
+144917,1002,Card Game
+144924,1002,Card Game
+144924,1044,Collectible Components
+144924,1016,Science Fiction
+144933,1024,Horror
+144935,1022,Adventure
+144935,1010,Fantasy
+144935,1035,Medieval
+144935,1082,Mythology
+144936,2481,Zombies
+144937,1002,Card Game
+144946,1032,Action / Dexterity
+144946,1041,Children's Game
+144948,1023,Bluffing
+144948,1002,Card Game
+144951,1017,Dice
+144951,1046,Fighting
+144951,1120,Print & Play
+144951,1101,Video Game Theme
+144952,1022,Adventure
+144953,1038,Sports
+144954,1002,Card Game
+144954,1010,Fantasy
+144954,1082,Mythology
+144955,1040,Murder/Mystery
+144956,1120,Print & Play
+144956,1019,Wargame
+144956,1049,World War II
+144957,1019,Wargame
+144957,1049,World War II
+144958,1019,Wargame
+144958,1049,World War II
+144959,1019,Wargame
+144959,1065,World War I
+144961,1019,Wargame
+144961,1065,World War I
+144964,1094,Educational
+144964,1045,Memory
+144964,1036,Prehistoric
+144967,1120,Print & Play
+144969,1035,Medieval
+144969,1120,Print & Play
+144969,1019,Wargame
+144970,1048,American Civil War
+144970,1047,Miniatures
+144970,1019,Wargame
+144975,1038,Sports
+144976,1002,Card Game
+144977,1023,Bluffing
+144977,1002,Card Game
+144977,1094,Educational
+144978,1023,Bluffing
+144978,1002,Card Game
+144978,1094,Educational
+144979,1023,Bluffing
+144979,1002,Card Game
+144979,1094,Educational
+144980,1023,Bluffing
+144980,1002,Card Game
+144980,1094,Educational
+144981,1023,Bluffing
+144981,1002,Card Game
+144981,1094,Educational
+144982,1009,Abstract Strategy
+144983,1032,Action / Dexterity
+144983,2650,Aviation / Flight
+144986,1089,Animals
+144986,1008,Nautical
+144988,1002,Card Game
+144988,1010,Fantasy
+144988,1046,Fighting
+144990,1009,Abstract Strategy
+144993,1002,Card Game
+144993,1046,Fighting
+144993,1079,Humor
+144993,1030,Party Game
+145011,1032,Action / Dexterity
+145011,1022,Adventure
+145011,1010,Fantasy
+145011,1046,Fighting
+145012,1052,Arabian
+145012,1029,City Building
+145012,1028,Puzzle
+145014,1002,Card Game
+145014,1094,Educational
+145014,1027,Trivia
+145026,1009,Abstract Strategy
+145027,1002,Card Game
+145042,1047,Miniatures
+145044,1009,Abstract Strategy
+145044,1002,Card Game
+145065,1019,Wargame
+145065,1049,World War II
+145068,1021,Economic
+145068,1088,Industry / Manufacturing
+145070,1041,Children's Game
+145070,1045,Memory
+145086,1002,Card Game
+145086,1039,Deduction
+145100,1010,Fantasy
+145103,1094,Educational
+145103,1019,Wargame
+145103,1049,World War II
+145106,1002,Card Game
+145106,1010,Fantasy
+145106,1030,Party Game
+145111,1002,Card Game
+145111,1041,Children's Game
+145111,1064,Movies / TV / Radio theme
+145112,1002,Card Game
+145112,1064,Movies / TV / Radio theme
+145118,1064,Movies / TV / Radio theme
+145119,1064,Movies / TV / Radio theme
+145120,1089,Animals
+145120,1064,Movies / TV / Radio theme
+145120,1031,Racing
+145122,2650,Aviation / Flight
+145122,1090,Pirates
+145122,1016,Science Fiction
+145144,1031,Racing
+145144,1038,Sports
+145149,1009,Abstract Strategy
+145149,1120,Print & Play
+145150,1009,Abstract Strategy
+145150,1029,City Building
+145150,1120,Print & Play
+145150,2481,Zombies
+145151,1048,American Civil War
+145151,1102,Civil War
+145151,2710,Post-Napoleonic
+145151,1019,Wargame
+145159,1023,Bluffing
+145159,1002,Card Game
+145159,1039,Deduction
+145159,1026,Negotiation
+145159,1120,Print & Play
+145159,1016,Science Fiction
+145159,1081,Spies/Secret Agents
+145159,1097,Travel
+145166,1027,Trivia
+145168,1032,Action / Dexterity
+145168,1020,Exploration
+145168,1010,Fantasy
+145168,1046,Fighting
+145168,1024,Horror
+145168,1093,Novel-based
+145168,1030,Party Game
+145168,1016,Science Fiction
+145168,1027,Trivia
+145170,1019,Wargame
+145170,1049,World War II
+145171,1019,Wargame
+145172,1041,Children's Game
+145173,1002,Card Game
+145173,1010,Fantasy
+145173,1046,Fighting
+145183,1009,Abstract Strategy
+145184,1017,Dice
+145184,1010,Fantasy
+145185,1002,Card Game
+145185,1079,Humor
+145185,1026,Negotiation
+145186,1032,Action / Dexterity
+145186,1089,Animals
+145186,1002,Card Game
+145186,1030,Party Game
+145186,1028,Puzzle
+145186,1037,Real-time
+145189,1002,Card Game
+145189,1094,Educational
+145189,1054,Music
+145189,1030,Party Game
+145189,1027,Trivia
+145194,1017,Dice
+145197,1039,Deduction
+145197,1120,Print & Play
+145197,1016,Science Fiction
+145198,1022,Adventure
+145198,1120,Print & Play
+145198,1016,Science Fiction
+145200,1022,Adventure
+145200,1046,Fighting
+145200,1008,Nautical
+145200,1090,Pirates
+145200,1120,Print & Play
+145201,1002,Card Game
+145201,1025,Word Game
+145202,1050,Ancient
+145202,1002,Card Game
+145202,1017,Dice
+145202,1046,Fighting
+145202,1120,Print & Play
+145203,1021,Economic
+145203,1084,Environmental
+145204,1002,Card Game
+145204,1025,Word Game
+145205,2650,Aviation / Flight
+145205,1020,Exploration
+145206,1002,Card Game
+145206,1039,Deduction
+145206,1120,Print & Play
+145207,1002,Card Game
+145207,1120,Print & Play
+145208,1039,Deduction
+145208,1030,Party Game
+145209,1120,Print & Play
+145209,1016,Science Fiction
+145209,1113,Space Exploration
+145219,1021,Economic
+145219,1088,Industry / Manufacturing
+145219,1035,Medieval
+145259,1032,Action / Dexterity
+145259,1030,Party Game
+145259,1101,Video Game Theme
+145260,1047,Miniatures
+145260,1019,Wargame
+145260,1049,World War II
+145261,1047,Miniatures
+145261,1016,Science Fiction
+145261,1019,Wargame
+145264,1023,Bluffing
+145264,1002,Card Game
+145271,1002,Card Game
+145273,1041,Children's Game
+145274,1002,Card Game
+145274,1017,Dice
+145274,1010,Fantasy
+145274,1120,Print & Play
+145275,1002,Card Game
+145275,1113,Space Exploration
+145277,2650,Aviation / Flight
+145277,1002,Card Game
+145277,1017,Dice
+145277,1120,Print & Play
+145279,1002,Card Game
+145279,1120,Print & Play
+145280,1002,Card Game
+145280,1025,Word Game
+145294,1089,Animals
+145294,1041,Children's Game
+145294,1094,Educational
+145294,1020,Exploration
+145294,1008,Nautical
+145294,1011,Transportation
+145304,1022,Adventure
+145304,1002,Card Game
+145304,1024,Horror
+145305,1041,Children's Game
+145305,1116,Comic Book / Strip
+145305,1031,Racing
+145306,1041,Children's Game
+145306,1017,Dice
+145306,1010,Fantasy
+145306,1093,Novel-based
+145308,1002,Card Game
+145308,1051,Napoleonic
+145308,1093,Novel-based
+145308,1120,Print & Play
+145309,1094,Educational
+145309,1011,Transportation
+145309,1097,Travel
+145309,1027,Trivia
+145310,1094,Educational
+145310,1011,Transportation
+145310,1097,Travel
+145310,1027,Trivia
+145323,1094,Educational
+145323,1045,Memory
+145327,1025,Word Game
+145328,1021,Economic
+145328,1026,Negotiation
+145328,1101,Video Game Theme
+145329,1116,Comic Book / Strip
+145329,1021,Economic
+145329,1064,Movies / TV / Radio theme
+145329,1026,Negotiation
+145331,1002,Card Game
+145331,1079,Humor
+145331,1090,Pirates
+145344,1050,Ancient
+145344,1002,Card Game
+145344,1102,Civil War
+145344,1093,Novel-based
+145344,1030,Party Game
+145349,1002,Card Game
+145349,1030,Party Game
+145349,1028,Puzzle
+145353,1009,Abstract Strategy
+145353,1041,Children's Game
+145367,1117,Book
+145367,1047,Miniatures
+145367,1019,Wargame
+145368,1017,Dice
+145368,1024,Horror
+145368,1016,Science Fiction
+145370,1002,Card Game
+145370,1025,Word Game
+145371,1050,Ancient
+145371,1015,Civilization
+145371,1021,Economic
+145371,1093,Novel-based
+145371,1086,Territory Building
+145372,1002,Card Game
+145372,1025,Word Game
+145374,1009,Abstract Strategy
+145381,1049,World War II
+145384,1038,Sports
+145388,1002,Card Game
+145388,1079,Humor
+145388,1001,Political
+145388,1120,Print & Play
+145389,1002,Card Game
+145389,1016,Science Fiction
+145390,2726,Age of Reason
+145390,1075,American Revolutionary War
+145390,1019,Wargame
+145391,1002,Card Game
+145391,1025,Word Game
+145393,1020,Exploration
+145393,1010,Fantasy
+145394,1009,Abstract Strategy
+145395,1032,Action / Dexterity
+145395,1089,Animals
+145395,1002,Card Game
+145395,1041,Children's Game
+145395,1094,Educational
+145395,1045,Memory
+145395,1030,Party Game
+145396,1032,Action / Dexterity
+145396,1002,Card Game
+145396,1079,Humor
+145396,1030,Party Game
+145398,1002,Card Game
+145398,1025,Word Game
+145400,1094,Educational
+145400,1001,Political
+145401,1002,Card Game
+145410,1120,Print & Play
+145412,1022,Adventure
+145412,1079,Humor
+145412,2481,Zombies
+145419,1023,Bluffing
+145419,1002,Card Game
+145419,1026,Negotiation
+145421,1002,Card Game
+145421,1044,Collectible Components
+145421,1010,Fantasy
+145421,1046,Fighting
+145421,1016,Science Fiction
+145421,1101,Video Game Theme
+145423,1009,Abstract Strategy
+145423,2650,Aviation / Flight
+145423,1120,Print & Play
+145423,1049,World War II
+145424,1039,Deduction
+145427,1021,Economic
+145427,1020,Exploration
+145427,1013,Farming
+145427,1079,Humor
+145428,1041,Children's Game
+145428,1021,Economic
+145429,1032,Action / Dexterity
+145429,1041,Children's Game
+145430,1032,Action / Dexterity
+145430,1041,Children's Game
+145431,2650,Aviation / Flight
+145431,1010,Fantasy
+145431,1047,Miniatures
+145431,1019,Wargame
+145434,1042,Expansion for Base-game
+145434,1019,Wargame
+145434,1049,World War II
+145464,1021,Economic
+145464,1088,Industry / Manufacturing
+145464,1011,Transportation
+145470,1002,Card Game
+145470,1033,Mafia
+145470,1026,Negotiation
+145471,1050,Ancient
+145471,1019,Wargame
+145472,1039,Deduction
+145472,1028,Puzzle
+145475,1002,Card Game
+145475,1093,Novel-based
+145478,1002,Card Game
+145483,1002,Card Game
+145483,1116,Comic Book / Strip
+145483,1079,Humor
+145483,1118,Mature / Adult
+145484,1089,Animals
+145484,1041,Children's Game
+145484,1017,Dice
+145484,1120,Print & Play
+145485,1010,Fantasy
+145485,1046,Fighting
+145485,1120,Print & Play
+145487,1017,Dice
+145487,1120,Print & Play
+145488,1002,Card Game
+145488,1079,Humor
+145488,1001,Political
+145490,1104,Math
+145491,1002,Card Game
+145491,1025,Word Game
+145492,1032,Action / Dexterity
+145492,1041,Children's Game
+145493,1010,Fantasy
+145493,1101,Video Game Theme
+145495,1002,Card Game
+145495,1120,Print & Play
+145496,1090,Pirates
+145501,1032,Action / Dexterity
+145501,1089,Animals
+145501,1041,Children's Game
+145502,1002,Card Game
+145502,1094,Educational
+145502,1025,Word Game
+145503,1002,Card Game
+145503,1017,Dice
+145503,1104,Math
+145503,1028,Puzzle
+145503,1025,Word Game
+145504,1002,Card Game
+145504,1064,Movies / TV / Radio theme
+145516,1041,Children's Game
+145523,1047,Miniatures
+145523,1064,Movies / TV / Radio theme
+145523,1016,Science Fiction
+145534,1002,Card Game
+145534,1010,Fantasy
+145534,1046,Fighting
+145534,1079,Humor
+145535,1002,Card Game
+145535,1010,Fantasy
+145535,1046,Fighting
+145535,1079,Humor
+145549,1019,Wargame
+145549,1049,World War II
+145553,1010,Fantasy
+145553,1046,Fighting
+145553,1082,Mythology
+145553,1086,Territory Building
+145553,1019,Wargame
+145555,1016,Science Fiction
+145555,1019,Wargame
+145557,1002,Card Game
+145557,1029,City Building
+145558,1002,Card Game
+145559,1002,Card Game
+145559,1025,Word Game
+145560,1002,Card Game
+145561,1089,Animals
+145561,1002,Card Game
+145561,1115,Religious
+145563,1041,Children's Game
+145563,1064,Movies / TV / Radio theme
+145564,1002,Card Game
+145566,1002,Card Game
+145566,1094,Educational
+145567,1038,Sports
+145571,1009,Abstract Strategy
+145571,1002,Card Game
+145578,1039,Deduction
+145578,1064,Movies / TV / Radio theme
+145578,1040,Murder/Mystery
+145580,1089,Animals
+145580,1031,Racing
+145581,1023,Bluffing
+145581,1002,Card Game
+145581,1039,Deduction
+145581,1094,Educational
+145581,1025,Word Game
+145582,1002,Card Game
+145582,1025,Word Game
+145584,1030,Party Game
+145584,1025,Word Game
+145586,1027,Trivia
+145587,1017,Dice
+145588,1021,Economic
+145588,1013,Farming
+145588,1086,Territory Building
+145589,1118,Mature / Adult
+145590,1032,Action / Dexterity
+145590,1022,Adventure
+145590,1046,Fighting
+145590,1033,Mafia
+145590,1047,Miniatures
+145590,1037,Real-time
+145590,1101,Video Game Theme
+145592,1008,Nautical
+145592,1016,Science Fiction
+145592,1019,Wargame
+145592,1049,World War II
+145593,1019,Wargame
+145593,1049,World War II
+145594,1120,Print & Play
+145594,1038,Sports
+145598,1041,Children's Game
+145599,1022,Adventure
+145599,1050,Ancient
+145599,1017,Dice
+145599,1010,Fantasy
+145599,1047,Miniatures
+145599,1082,Mythology
+145599,1093,Novel-based
+145600,1065,World War I
+145601,1039,Deduction
+145601,1040,Murder/Mystery
+145609,1089,Animals
+145609,1030,Party Game
+145609,1025,Word Game
+145617,1002,Card Game
+145617,1041,Children's Game
+145617,1104,Math
+145618,1051,Napoleonic
+145618,1019,Wargame
+145620,1001,Political
+145621,1089,Animals
+145621,1002,Card Game
+145621,1030,Party Game
+145631,1032,Action / Dexterity
+145631,1041,Children's Game
+145631,1072,Electronic
+145631,1064,Movies / TV / Radio theme
+145632,1038,Sports
+145633,1002,Card Game
+145633,1010,Fantasy
+145635,1038,Sports
+145636,1028,Puzzle
+145639,1032,Action / Dexterity
+145639,1089,Animals
+145639,1041,Children's Game
+145641,1002,Card Game
+145641,1025,Word Game
+145642,1002,Card Game
+145642,1024,Horror
+145645,1039,Deduction
+145645,1054,Music
+145645,1093,Novel-based
+145647,1027,Trivia
+145648,1027,Trivia
+145649,1032,Action / Dexterity
+145649,1055,American West
+145649,1023,Bluffing
+145649,1046,Fighting
+145649,1079,Humor
+145649,1026,Negotiation
+145652,1079,Humor
+145652,1054,Music
+145653,1002,Card Game
+145653,1010,Fantasy
+145654,1002,Card Game
+145654,1046,Fighting
+145654,1024,Horror
+145654,1016,Science Fiction
+145658,1086,Territory Building
+145659,1013,Farming
+145660,1002,Card Game
+145660,1035,Medieval
+145670,1038,Sports
+145671,1038,Sports
+145672,1038,Sports
+145673,1035,Medieval
+145673,1026,Negotiation
+145674,1022,Adventure
+145674,1002,Card Game
+145674,2687,Fan Expansion
+145674,1010,Fantasy
+145674,1046,Fighting
+145674,1082,Mythology
+145674,1120,Print & Play
+145675,1089,Animals
+145675,1045,Memory
+145675,1031,Racing
+145677,1030,Party Game
+145677,1031,Racing
+145677,1025,Word Game
+145684,1038,Sports
+145685,1021,Economic
+145685,1026,Negotiation
+145699,1029,City Building
+145699,1017,Dice
+145699,1020,Exploration
+145699,1010,Fantasy
+145699,1046,Fighting
+145699,1086,Territory Building
+145700,1054,Music
+145700,1027,Trivia
+145701,1117,Book
+145701,1054,Music
+145701,1027,Trivia
+145702,1050,Ancient
+145702,1117,Book
+145702,1027,Trivia
+145703,1089,Animals
+145703,1117,Book
+145703,1027,Trivia
+145704,1117,Book
+145704,1027,Trivia
+145715,1028,Puzzle
+145716,1002,Card Game
+145716,1016,Science Fiction
+145717,1089,Animals
+145717,1041,Children's Game
+145717,1039,Deduction
+145717,1064,Movies / TV / Radio theme
+145720,1041,Children's Game
+145720,1010,Fantasy
+145721,1041,Children's Game
+145721,1045,Memory
+145721,1028,Puzzle
+145721,1027,Trivia
+145722,1023,Bluffing
+145722,1039,Deduction
+145723,1023,Bluffing
+145723,1002,Card Game
+145723,1039,Deduction
+145739,1094,Educational
+145739,1084,Environmental
+145739,1027,Trivia
+145741,1002,Card Game
+145741,1041,Children's Game
+145764,1024,Horror
+145765,1002,Card Game
+145765,1039,Deduction
+145765,1030,Party Game
+145766,1022,Adventure
+145766,1093,Novel-based
+145766,1016,Science Fiction
+145768,1041,Children's Game
+145768,1017,Dice
+145768,1031,Racing
+145768,1097,Travel
+145779,1017,Dice
+145779,1046,Fighting
+145779,1038,Sports
+145781,1002,Card Game
+145781,1016,Science Fiction
+145783,1032,Action / Dexterity
+145783,1002,Card Game
+145783,1030,Party Game
+145784,1022,Adventure
+145784,1046,Fighting
+145784,1024,Horror
+145793,1017,Dice
+145793,1010,Fantasy
+145794,1002,Card Game
+145794,1094,Educational
+145794,1019,Wargame
+145794,1065,World War I
+145795,2726,Age of Reason
+145795,1117,Book
+145795,1047,Miniatures
+145795,1051,Napoleonic
+145795,2710,Post-Napoleonic
+145795,1019,Wargame
+145796,1050,Ancient
+145796,1046,Fighting
+145796,1008,Nautical
+145797,1010,Fantasy
+145799,1009,Abstract Strategy
+145799,1064,Movies / TV / Radio theme
+145799,1098,Number
+145799,1030,Party Game
+145800,1089,Animals
+145800,1041,Children's Game
+145800,1028,Puzzle
+145801,1117,Book
+145801,1027,Trivia
+145802,1117,Book
+145802,1027,Trivia
+145803,1089,Animals
+145803,1117,Book
+145803,1027,Trivia
+145804,1117,Book
+145804,1038,Sports
+145804,1027,Trivia
+145805,1117,Book
+145805,1038,Sports
+145805,1027,Trivia
+145806,1117,Book
+145806,2145,Medical
+145806,1027,Trivia
+145807,1089,Animals
+145807,1117,Book
+145807,1027,Trivia
+145816,1002,Card Game
+145816,1017,Dice
+145816,1010,Fantasy
+145816,1120,Print & Play
+145819,1117,Book
+145819,1027,Trivia
+145820,1089,Animals
+145820,1117,Book
+145820,1027,Trivia
+145821,1089,Animals
+145821,1117,Book
+145821,1027,Trivia
+145822,1117,Book
+145822,1035,Medieval
+145822,1027,Trivia
+145823,1089,Animals
+145823,1117,Book
+145823,1027,Trivia
+145824,1089,Animals
+145824,1117,Book
+145824,1027,Trivia
+145829,1002,Card Game
+145829,1054,Music
+145829,1027,Trivia
+145830,1002,Card Game
+145830,1027,Trivia
+145831,1002,Card Game
+145831,1038,Sports
+145831,1027,Trivia
+145832,1002,Card Game
+145832,1027,Trivia
+145833,1008,Nautical
+145833,2710,Post-Napoleonic
+145833,1019,Wargame
+145834,1048,American Civil War
+145834,1019,Wargame
+145836,1002,Card Game
+145836,1010,Fantasy
+145836,1046,Fighting
+145836,1120,Print & Play
+145842,1021,Economic
+145843,1009,Abstract Strategy
+145843,1008,Nautical
+145843,1019,Wargame
+145843,1049,World War II
+145844,1016,Science Fiction
+145846,1022,Adventure
+145846,1020,Exploration
+145846,1010,Fantasy
+145846,1046,Fighting
+145847,1047,Miniatures
+145847,1016,Science Fiction
+145847,1019,Wargame
+145852,1089,Animals
+145852,1023,Bluffing
+145852,1002,Card Game
+145852,1046,Fighting
+145852,1038,Sports
+145853,1041,Children's Game
+145853,1116,Comic Book / Strip
+145864,1089,Animals
+145864,1017,Dice
+145872,1009,Abstract Strategy
+145872,1050,Ancient
+145872,1019,Wargame
+145873,1041,Children's Game
+145873,1116,Comic Book / Strip
+145874,1120,Print & Play
+145874,1086,Territory Building
+145881,1002,Card Game
+145886,1009,Abstract Strategy
+145886,1089,Animals
+145886,1023,Bluffing
+145888,1002,Card Game
+145888,1046,Fighting
+145888,1101,Video Game Theme
+145889,1002,Card Game
+145890,1002,Card Game
+145890,1037,Real-time
+145890,1025,Word Game
+145892,1010,Fantasy
+145897,1030,Party Game
+145898,1035,Medieval
+145898,1027,Trivia
+145901,1017,Dice
+145901,1030,Party Game
+145901,1025,Word Game
+145903,1030,Party Game
+145905,1002,Card Game
+145905,1017,Dice
+145905,1010,Fantasy
+145905,1035,Medieval
+145906,1030,Party Game
+145907,1002,Card Game
+145907,1044,Collectible Components
+145907,1064,Movies / TV / Radio theme
+145907,1038,Sports
+145909,1089,Animals
+145909,1038,Sports
+145911,1032,Action / Dexterity
+145915,1010,Fantasy
+145915,1019,Wargame
+145917,1010,Fantasy
+145917,1047,Miniatures
+145918,1039,Deduction
+145918,1059,Maze
+145919,1032,Action / Dexterity
+145920,1009,Abstract Strategy
+145920,1008,Nautical
+145923,1030,Party Game
+145923,1120,Print & Play
+145924,1002,Card Game
+145924,1041,Children's Game
+145924,1045,Memory
+145924,1064,Movies / TV / Radio theme
+145924,1016,Science Fiction
+145928,1023,Bluffing
+145928,1002,Card Game
+145928,1046,Fighting
+145928,1120,Print & Play
+145929,1032,Action / Dexterity
+145930,1002,Card Game
+145930,1120,Print & Play
+145930,1038,Sports
+145936,1025,Word Game
+145943,1002,Card Game
+145943,1079,Humor
+145948,1002,Card Game
+145950,1017,Dice
+145950,1031,Racing
+145951,1044,Collectible Components
+145951,1017,Dice
+145951,1046,Fighting
+145951,1024,Horror
+145951,1047,Miniatures
+145951,1019,Wargame
+145956,1041,Children's Game
+145956,1017,Dice
+145956,1031,Racing
+145958,1017,Dice
+145963,1009,Abstract Strategy
+145963,1104,Math
+145965,1094,Educational
+145965,1072,Electronic
+145971,1023,Bluffing
+145971,1002,Card Game
+145971,1039,Deduction
+145971,1082,Mythology
+145971,1120,Print & Play
+145975,1050,Ancient
+145975,1019,Wargame
+145976,1016,Science Fiction
+145976,1019,Wargame
+145980,1117,Book
+145980,1010,Fantasy
+145980,1047,Miniatures
+145980,1019,Wargame
+145985,1089,Animals
+145985,1041,Children's Game
+145985,1093,Novel-based
+146001,1002,Card Game
+146001,1079,Humor
+146001,1033,Mafia
+146001,1001,Political
+146006,1016,Science Fiction
+146006,1019,Wargame
+146014,1047,Miniatures
+146014,1016,Science Fiction
+146014,1038,Sports
+146021,1022,Adventure
+146021,1046,Fighting
+146021,1024,Horror
+146021,1093,Novel-based
+146021,1097,Travel
+146023,1020,Exploration
+146023,1016,Science Fiction
+146023,1113,Space Exploration
+146030,1002,Card Game
+146030,1010,Fantasy
+146032,1002,Card Game
+146032,1120,Print & Play
+146034,1002,Card Game
+146035,1002,Card Game
+146040,1017,Dice
+146040,1038,Sports
+146051,1009,Abstract Strategy
+146051,1115,Religious
+146051,1025,Word Game
+146052,1002,Card Game
+146052,1044,Collectible Components
+146052,1024,Horror
+146052,1082,Mythology
+146067,1009,Abstract Strategy
+146075,1024,Horror
+146077,1032,Action / Dexterity
+146077,1017,Dice
+146094,1002,Card Game
+146094,1039,Deduction
+146094,1090,Pirates
+146098,1047,Miniatures
+146098,1064,Movies / TV / Radio theme
+146098,1120,Print & Play
+146098,1016,Science Fiction
+146098,1019,Wargame
+146099,1016,Science Fiction
+146104,1089,Animals
+146104,1002,Card Game
+146106,1050,Ancient
+146106,1002,Card Game
+146106,1046,Fighting
+146106,1120,Print & Play
+146109,1002,Card Game
+146109,1064,Movies / TV / Radio theme
+146109,1016,Science Fiction
+146110,1047,Miniatures
+146110,1008,Nautical
+146110,1120,Print & Play
+146110,1019,Wargame
+146110,1065,World War I
+146110,1049,World War II
+146111,1104,Math
+146111,1030,Party Game
+146112,1002,Card Game
+146112,1090,Pirates
+146113,1009,Abstract Strategy
+146113,1120,Print & Play
+146115,1016,Science Fiction
+146115,1113,Space Exploration
+146115,1019,Wargame
+146116,1002,Card Game
+146119,1041,Children's Game
+146119,1010,Fantasy
+146130,1009,Abstract Strategy
+146130,1120,Print & Play
+146135,1009,Abstract Strategy
+146135,1041,Children's Game
+146135,1028,Puzzle
+146139,1017,Dice
+146139,1001,Political
+146144,1017,Dice
+146144,1016,Science Fiction
+146144,1019,Wargame
+146145,1041,Children's Game
+146145,1116,Comic Book / Strip
+146146,1017,Dice
+146149,1032,Action / Dexterity
+146149,1041,Children's Game
+146149,1037,Real-time
+146151,1017,Dice
+146152,1002,Card Game
+146152,1037,Real-time
+146157,1030,Party Game
+146157,1037,Real-time
+146157,1027,Trivia
+146158,1029,City Building
+146160,1032,Action / Dexterity
+146161,1089,Animals
+146161,1002,Card Game
+146162,1089,Animals
+146162,1041,Children's Game
+146162,1017,Dice
+146162,1045,Memory
+146163,1064,Movies / TV / Radio theme
+146163,1027,Trivia
+146165,1009,Abstract Strategy
+146165,1055,American West
+146166,1041,Children's Game
+146167,1002,Card Game
+146167,1079,Humor
+146168,1089,Animals
+146168,1017,Dice
+146169,1009,Abstract Strategy
+146169,1002,Card Game
+146171,1002,Card Game
+146171,1031,Racing
+146172,1055,American West
+146172,1002,Card Game
+146180,1015,Civilization
+146183,1035,Medieval
+146183,1082,Mythology
+146183,1093,Novel-based
+146183,1070,Renaissance
+146184,1102,Civil War
+146184,1001,Political
+146188,1022,Adventure
+146190,1032,Action / Dexterity
+146190,1041,Children's Game
+146191,1041,Children's Game
+146195,1002,Card Game
+146196,1055,American West
+146196,1002,Card Game
+146196,1017,Dice
+146196,1120,Print & Play
+146197,1022,Adventure
+146197,2726,Age of Reason
+146197,1055,American West
+146197,1002,Card Game
+146204,1002,Card Game
+146204,1116,Comic Book / Strip
+146204,1010,Fantasy
+146204,1046,Fighting
+146204,1079,Humor
+146207,1055,American West
+146207,1117,Book
+146207,1047,Miniatures
+146207,2710,Post-Napoleonic
+146207,1019,Wargame
+146208,1009,Abstract Strategy
+146208,1023,Bluffing
+146208,1017,Dice
+146210,1038,Sports
+146212,1042,Expansion for Base-game
+146212,1049,World War II
+146213,1042,Expansion for Base-game
+146213,1049,World War II
+146214,1042,Expansion for Base-game
+146214,1049,World War II
+146215,1042,Expansion for Base-game
+146215,1049,World War II
+146216,1042,Expansion for Base-game
+146216,1049,World War II
+146217,1019,Wargame
+146217,1049,World War II
+146220,1023,Bluffing
+146220,1002,Card Game
+146220,1001,Political
+146220,1120,Print & Play
+146220,1037,Real-time
+146221,1022,Adventure
+146221,1021,Economic
+146221,1010,Fantasy
+146221,1088,Industry / Manufacturing
+146221,1035,Medieval
+146222,1023,Bluffing
+146222,1002,Card Game
+146222,1039,Deduction
+146225,1020,Exploration
+146225,1026,Negotiation
+146225,1001,Political
+146225,1070,Renaissance
+146226,1002,Card Game
+146226,1120,Print & Play
+146227,1017,Dice
+146228,2726,Age of Reason
+146228,1026,Negotiation
+146228,1019,Wargame
+146234,1094,Educational
+146234,1104,Math
+146242,1009,Abstract Strategy
+146245,1009,Abstract Strategy
+146245,1029,City Building
+146245,1010,Fantasy
+146245,1035,Medieval
+146245,1086,Territory Building
+146247,1023,Bluffing
+146247,1002,Card Game
+146247,1046,Fighting
+146247,1016,Science Fiction
+146248,1009,Abstract Strategy
+146248,1041,Children's Game
+146251,1002,Card Game
+146251,1016,Science Fiction
+146251,2481,Zombies
+146252,1002,Card Game
+146252,1041,Children's Game
+146252,1028,Puzzle
+146252,1037,Real-time
+146253,1017,Dice
+146259,1002,Card Game
+146259,1010,Fantasy
+146259,1082,Mythology
+146260,1009,Abstract Strategy
+146260,1023,Bluffing
+146260,1002,Card Game
+146260,1044,Collectible Components
+146260,1017,Dice
+146262,1032,Action / Dexterity
+146262,1030,Party Game
+146268,1021,Economic
+146268,1094,Educational
+146268,1001,Political
+146270,1032,Action / Dexterity
+146270,2650,Aviation / Flight
+146270,1041,Children's Game
+146270,1064,Movies / TV / Radio theme
+146270,1031,Racing
+146270,1097,Travel
+146272,2710,Post-Napoleonic
+146272,1120,Print & Play
+146272,1019,Wargame
+146273,1010,Fantasy
+146273,1047,Miniatures
+146274,1048,American Civil War
+146274,1019,Wargame
+146275,1022,Adventure
+146275,1010,Fantasy
+146275,1046,Fighting
+146275,1035,Medieval
+146275,1008,Nautical
+146276,1038,Sports
+146276,1027,Trivia
+146278,1009,Abstract Strategy
+146278,1002,Card Game
+146278,1010,Fantasy
+146278,1046,Fighting
+146280,1002,Card Game
+146289,1002,Card Game
+146290,1023,Bluffing
+146290,1030,Party Game
+146290,1090,Pirates
+146290,1001,Political
+146291,1009,Abstract Strategy
+146291,1089,Animals
+146291,1120,Print & Play
+146292,1009,Abstract Strategy
+146292,1089,Animals
+146292,1120,Print & Play
+146293,1041,Children's Game
+146293,1046,Fighting
+146293,1064,Movies / TV / Radio theme
+146293,1120,Print & Play
+146295,1009,Abstract Strategy
+146295,1017,Dice
+146299,2481,Zombies
+146300,1002,Card Game
+146300,1044,Collectible Components
+146300,1010,Fantasy
+146302,1002,Card Game
+146302,1028,Puzzle
+146309,1010,Fantasy
+146309,1035,Medieval
+146312,1022,Adventure
+146312,1041,Children's Game
+146312,1010,Fantasy
+146312,1024,Horror
+146317,1030,Party Game
+146319,1002,Card Game
+146321,1002,Card Game
+146321,1094,Educational
+146321,1046,Fighting
+146321,1035,Medieval
+146324,1002,Card Game
+146324,1013,Farming
+146326,1032,Action / Dexterity
+146326,1038,Sports
+146328,1041,Children's Game
+146328,1049,World War II
+146331,1088,Industry / Manufacturing
+146331,1027,Trivia
+146332,1032,Action / Dexterity
+146332,1117,Book
+146332,1010,Fantasy
+146332,1047,Miniatures
+146332,1019,Wargame
+146333,1051,Napoleonic
+146333,1019,Wargame
+146336,1047,Miniatures
+146336,1064,Movies / TV / Radio theme
+146336,1016,Science Fiction
+146336,1019,Wargame
+146351,2726,Age of Reason
+146351,1108,American Indian Wars
+146351,1075,American Revolutionary War
+146351,1117,Book
+146351,1047,Miniatures
+146351,1051,Napoleonic
+146351,1019,Wargame
+146354,1009,Abstract Strategy
+146354,1002,Card Game
+146354,1120,Print & Play
+146356,1021,Economic
+146361,1002,Card Game
+146361,1017,Dice
+146361,1118,Mature / Adult
+146361,1030,Party Game
+146362,1002,Card Game
+146362,1120,Print & Play
+146362,1037,Real-time
+146362,1038,Sports
+146363,1002,Card Game
+146363,1120,Print & Play
+146363,1037,Real-time
+146363,1038,Sports
+146364,1032,Action / Dexterity
+146364,1030,Party Game
+146367,1030,Party Game
+146367,1037,Real-time
+146384,1040,Murder/Mystery
+146384,1037,Real-time
+146387,1024,Horror
+146387,1047,Miniatures
+146387,1016,Science Fiction
+146387,1019,Wargame
+146387,2481,Zombies
+146388,1064,Movies / TV / Radio theme
+146388,1016,Science Fiction
+146388,1019,Wargame
+146389,1002,Card Game
+146391,1009,Abstract Strategy
+146392,1039,Deduction
+146392,1040,Murder/Mystery
+146392,1093,Novel-based
+146408,1116,Comic Book / Strip
+146409,1089,Animals
+146409,1002,Card Game
+146409,1017,Dice
+146409,1010,Fantasy
+146409,1118,Mature / Adult
+146409,1082,Mythology
+146418,1017,Dice
+146418,1010,Fantasy
+146418,1019,Wargame
+146425,1002,Card Game
+146435,1041,Children's Game
+146435,1072,Electronic
+146435,1010,Fantasy
+146436,1022,Adventure
+146436,1017,Dice
+146436,1010,Fantasy
+146439,1010,Fantasy
+146439,1047,Miniatures
+146439,1019,Wargame
+146442,1102,Civil War
+146442,1010,Fantasy
+146442,1047,Miniatures
+146451,1010,Fantasy
+146451,1047,Miniatures
+146451,1019,Wargame
